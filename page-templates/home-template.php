@@ -12,11 +12,12 @@ defined( 'ABSPATH' ) || exit;
 get_header();
 ?>
 
-<div class="container">
-	<div class="row">
-		<div class="col-1">
-            logo
+<div class="container home-wrapper">
+	<div class="row align-items-center">
+		<div class="col-2">
+			<img src="<?php echo get_template_directory_uri(); ?>/img/freshflorals.png" alt="logo" srcset="">
 		</div>
+
 		<div class="col">
 			<p>
 				Floral Showroom: RLM Affairs is a full-service florist serving North Georgia for 40 years. Our award
@@ -28,16 +29,23 @@ get_header();
 				everyone in mind
 			</p>
 		</div>
-
 	</div>
+
+	<div class="row">
+		<div class="col">
+			<button class="btn">
+				ORDER FLOWERS NOW
+			</button>
+		</div>
+	</div>
+
+
 
 </div>
 
 
 
-<button>
-	ORDER FLOWERS NOW
-</button>
+
 
 <p>
 	Event Planner: At RLM Affairs we capture your vision and create the memories you have dreamed. Whether these dreams
