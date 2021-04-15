@@ -8,6 +8,7 @@
    background-size: cover;
    background-repeat: no-repeat;
    background-position: center top;
+   background-attachment: fixed;
 
    nav{
       .navbar-brand {
@@ -26,6 +27,7 @@
 
 // home
 .home-wrapper {
+   margin-top: 20px;
    p {
       color: rgba(8,18,8,.6);
    }
@@ -33,6 +35,7 @@
    .btn-wrapper{
       display: flex;
       justify-content: flex-end;
+      margin-bottom: 20px;
       .btn {
          font-family: Montserrat;
          font-size: 18px;
@@ -44,6 +47,38 @@
       }
    }
 
+   .pink-rose-wrapper {
+      height: 400px;
+      background-image: url("../img/pink-rose.jpg");
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+      background-attachment: fixed;
+
+   }
+
+   .event-wrapper {
+      margin-top: 20px;
+      // img {
+      //    margin-bottom: 20px;
+      // }
+   } 
+
+   .consultation-wrapper {
+      margin-top: 20px;
+      margin-bottom: 20px;
+   }
+
+   .bride-bg-wrapper {
+      height: 400px;
+      // width: 100%;
+      background-image: url("../img/bride-bg.jpg");
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+      background-attachment: fixed;
+
+   }
    
 }
 
