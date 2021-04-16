@@ -44,17 +44,21 @@ get_header();
 			</div>
 			<div class="col">
 				<p>
-					Event Planner: At RLM Affairs we capture your vision and create the memories you have dreamed. Whether these
+					Event Planner: At RLM Affairs we capture your vision and create the memories you have dreamed.
+					Whether these
 					dreams
-					include something you have believed would be your day since you were a child, or an event you were asked to
-					coordinate a week ago. Our goal is to elegantly bring your vision to life. Our amazing team has 40 years of
+					include something you have believed would be your day since you were a child, or an event you were
+					asked to
+					coordinate a week ago. Our goal is to elegantly bring your vision to life. Our amazing team has 40
+					years of
 					industry
 					experience guaranteeing a flawless execution.
 				</p>
 				<p>
 					We have had many different influences in the floral industry, affording us the opportunity to create
 					something
-					unique. We source our flowers direct from the grower & import any flower anytime of the year we can provide
+					unique. We source our flowers direct from the grower & import any flower anytime of the year we can
+					provide
 					any
 					floral desires.
 				</p>
@@ -64,22 +68,24 @@ get_header();
 		<div class="row consultation-wrapper align-items-center">
 			<div class="col-8">
 				<p>
-					We plan, design and fully execute beautiful celebrations of any size. We love creating events that will make
+					We plan, design and fully execute beautiful celebrations of any size. We love creating events that
+					will make
 					our
 					clients and their guest dance the night away and create memories that
 				</p>
 			</div>
 			<div class="col">
 				<div class="btn-wrapper">
-				<button class="btn">
-					CONSULTATION FORM
-				</button>
+					<button class="btn">
+						CONSULTATION FORM
+					</button>
+				</div>
 			</div>
 		</div>
 	</div>
 
 	<div class="bride-bg-wrapper"></div>
-	
+
 
 
 
@@ -98,6 +104,7 @@ get_header();
 		</button>
 
 
-</div> <!--home-wrapper -->
+	</div>
+	<!--home-wrapper -->
 
-<?php get_footer();
+	<?php get_footer();
