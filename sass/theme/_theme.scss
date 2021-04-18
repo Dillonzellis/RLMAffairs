@@ -75,6 +75,19 @@
       background-attachment: fixed;
 
    }
-   
+
+   .cupcakes {
+      height: 400px;
+      background-image: url("../img/cupcakes.jpg");
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center top;
+      background-attachment: fixed;
+   }
+}
+
+#wrapper-footer {
+   background: #262626;
+   color: white;
 }
 

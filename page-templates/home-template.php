@@ -87,24 +87,45 @@ get_header();
 	<div class="bride-bg-wrapper"></div>
 
 
+	<div class="container">
+		<div class="row align-items-center">
+			<div class="col-2">
+				<img src="<?php echo get_template_directory_uri(); ?>/img/babycakes.png" alt="logo" srcset="">
+			</div>
 
+			<div class="col">
+				<p>
+					BabyCakes specializes in hand crafted cupcakes. We make everything fresh from scratch in small
+					batches
+					throughout
+					the day using the finest ingredients, including sweet cream butter, Vanilla bean, bittersweet
+					Belgian
+					chocolate,
+					fresh zucchini and carrots.
+				</p>
+			</div>
+		</div>
 
+		<div class="row">
+			<div class="col">
+				<div class="btn-wrapper">
+					<button class="btn">
+						ORDER BABYCAKES NOW
+					</button>
+				</div>
 
-
-		<p>
-			BabyCakes specializes in hand crafted cupcakes. We make everything fresh from scratch in small batches
-			throughout
-			the day using the finest ingredients, including sweet cream butter, Vanilla bean, bittersweet Belgian
-			chocolate,
-			fresh zucchini and carrots.
-		</p>
-
-		<button>
-			ORDER BABYCAKES NOW
-		</button>
-
-
+			</div>
+		</div>
 	</div>
-	<!--home-wrapper -->
 
-	<?php get_footer();
+
+	<div class="cupcakes">sasas</div>
+
+
+
+
+
+</div>
+<!--home-wrapper -->
+
+<?php get_footer();
