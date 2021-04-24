@@ -27,27 +27,75 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 					<div class="site-info">
 
-						<div class="div">
-							RLM AFFAIRS 3575 McEver Road, Gainesville, GA, 30504, United States 770-536-7306 Resia@RLMAffairs.com
+						<div class="container">
+							<div class="row">
+								<div class="col">
+									RLM AFFAIRS
+								</div>
+								<div class="col">
+									3575 McEver Road, Gainesville, GA, 30504, United States
+								</div>
+								<div class="col">
+									770-536-7306
+								</div>
+								<div class="col">
+									Resia@RLMAffairs.com
+								</div>
+							</div>
 						</div>
 
-						<div class="div">
-							Hours Mon 10:00-4:00 Tue 10:00-4:00 Wed 10:00-4:00 Thu 10:00-4:00 Fri 10:00-4:00 Sat 10:00-12:00
+						<div class="row">
+							<div class="col">
+								Hours
+							</div>
+							<div class="col">
+								Mon 10:00-4:00
+							</div>
+							<div class="col">
+								Tue 10:00-4:00
+							</div>
+							<div class="col">
+								Wed 10:00-4:00
+							</div>
+							<div class="col">
+								Thu 10:00-4:00
+							</div>
+							<div class="col">
+								Fri 10:00-4:00
+							</div>
+							<div class="col">
+								Sat 10:00-12:00
+							</div>
 						</div>
 
-						<div class="div">
-							best of knot
+
+						<div class="row">
+							<div class="col">
+								<img src="<?php echo get_template_directory_uri(); ?>/img/knot2020.jpg" alt=""
+									srcset="">
+							</div>
+							<div class="col">
+								<img src="<?php echo get_template_directory_uri(); ?>/img/knot2021.jpg" alt=""
+									srcset="">
+							</div>
 						</div>
 
-						<div class="div">
-							SOCIAL LINKS
+						<div class="row">
+							<div class="col">
+								fb
+							</div>
+							<div class="col">
+								insta
+							</div>
 						</div>
+
 
 					</div><!-- .site-info -->
 
 				</footer><!-- #colophon -->
 
-			</div><!--col end -->
+			</div>
+			<!--col end -->
 
 		</div><!-- row end -->
 
@@ -62,4 +110,3 @@ $container = get_theme_mod( 'understrap_container_type' );
 </body>
 
 </html>
-

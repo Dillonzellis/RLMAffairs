@@ -32,6 +32,16 @@ get_header();
 			</div>
 		</div>
 
+		<div class="row">
+			<div class="col">
+				<div class="btn-wrapper">
+					<button class="btn">
+						ORDER FLOWERS NOW
+					</button>
+				</div>
+			</div>
+		</div>
+
 
 	</div>
 
