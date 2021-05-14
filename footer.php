@@ -28,7 +28,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 					<div class="site-info">
 
 						<div class="container">
-							<div class="row">
+							<div class="row justify-content-center">
 								<div class="col">
 									RLM AFFAIRS
 								</div>
