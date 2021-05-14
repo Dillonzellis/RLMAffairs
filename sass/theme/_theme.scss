@@ -92,5 +92,15 @@
    color: white;
    font-family: 'Open Sans', sans-serif;
    letter-spacing: 1px;
+
+   .center {
+      display: flex;
+      justify-content: center;
+   }
+
+   img{
+      height: 70px;
+      width: 70px;
+   }
 }
 

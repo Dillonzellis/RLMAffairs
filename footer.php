@@ -28,23 +28,26 @@ $container = get_theme_mod( 'understrap_container_type' );
 					<div class="site-info">
 
 						<div class="container">
-							<div class="row justify-content-center">
-								<div class="col">
+							<div class="row pb-3">
+								<div class="col center">
 									RLM AFFAIRS
 								</div>
-								<div class="col">
-									3575 McEver Road, Gainesville, GA, 30504, United States
-								</div>
-								<div class="col">
+								<div class="col center">
 									770-536-7306
 								</div>
-								<div class="col">
+								<div class="col center">
 									Resia@RLMAffairs.com
 								</div>
 							</div>
 						</div>
 
-						<div class="row">
+						<div class="row pb-3">
+							<div class="col center">
+								3575 McEver Road, Gainesville, GA, 30504, United States
+							</div>
+						</div>
+
+						<div class="row pb-4">
 							<div class="col">
 								Hours
 							</div>
@@ -69,23 +72,34 @@ $container = get_theme_mod( 'understrap_container_type' );
 						</div>
 
 
-						<div class="row">
-							<div class="col">
+						<!-- <div class="row">
+							<div class="col center">
 								<img src="<?php echo get_template_directory_uri(); ?>/img/knot2020.jpg" alt=""
 									srcset="">
 							</div>
-							<div class="col">
+							<div class="col center">
+								<img src="<?php echo get_template_directory_uri(); ?>/img/knot2021.jpg" alt=""
+									srcset="">
+							</div> -->
+						<!-- </div> -->
+
+						<div class="knot-holder center">
+							<div class="knot-img pr-4">
+								<img src="<?php echo get_template_directory_uri(); ?>/img/knot2020.jpg" alt=""
+									srcset="">
+							</div>
+							<div class="knot-img">
 								<img src="<?php echo get_template_directory_uri(); ?>/img/knot2021.jpg" alt=""
 									srcset="">
 							</div>
 						</div>
 
-						<div class="row">
-							<div class="col">
-								fb
+						<div class="social-holder center">
+							<div class="social pr-4">
+								<i class="fab fa-facebook-f"></i>
 							</div>
-							<div class="col">
-								insta
+							<div class="social">
+								<i class="fab fa-instagram"></i>
 							</div>
 						</div>
 
