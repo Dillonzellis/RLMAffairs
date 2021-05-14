@@ -71,18 +71,6 @@ $container = get_theme_mod( 'understrap_container_type' );
 							</div>
 						</div>
 
-
-						<!-- <div class="row">
-							<div class="col center">
-								<img src="<?php echo get_template_directory_uri(); ?>/img/knot2020.jpg" alt=""
-									srcset="">
-							</div>
-							<div class="col center">
-								<img src="<?php echo get_template_directory_uri(); ?>/img/knot2021.jpg" alt=""
-									srcset="">
-							</div> -->
-						<!-- </div> -->
-
 						<div class="knot-holder center">
 							<div class="knot-img pr-4">
 								<img src="<?php echo get_template_directory_uri(); ?>/img/knot2020.jpg" alt=""
