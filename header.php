@@ -46,19 +46,19 @@ $container = get_theme_mod( 'understrap_container_type' );
 				<div class="collapse navbar-collapse" id="navbarNav">
 					<ul class="navbar-nav">
 						<li class="nav-item active">
-							<a class="nav-link" href="#">Event Planner<span class="sr-only">(current)</span></a>
+							<a class="nav-link" href="<?php echo esc_url( home_url( '/' ) ); ?>">Event Planner<span class="sr-only">(current)</span></a>
 						</li>
 						<li class="nav-item">
 							<a class="nav-link" href="<?php echo esc_url( home_url( '/estate-room-gardens/' ) ); ?>">Venue</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="#">RLM Florist</a>
+							<a class="nav-link" href="https://rlmflorist.com/">RLM Florist</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="#">Catering Menu</a>
+							<a class="nav-link" href="<?php echo esc_url( home_url( '/catering-menu/' ) ); ?>">Catering Menu</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="#">Babycakes</a>
+							<a class="nav-link" href="<?php echo esc_url( home_url( '/babycakes-cupcakery/' ) ); ?>">Babycakes</a>
 						</li>
 					</ul>
 				</div>
