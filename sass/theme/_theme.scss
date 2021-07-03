@@ -1,106 +1,109 @@
 // This is an empty scss file for your custom styles - Please add your super duper awesome mega design styles here
 
-
 //header
-.nav-wrapper{
-   height: 600px;
-   background-image: url("../img/v-hero.jpg");
-   background-size: cover;
-   background-repeat: no-repeat;
-   background-position: center top;
-   background-attachment: fixed;
+.nav-wrapper {
+	height: 600px;
+	background-image: url("../img/v-hero.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
 
-   nav{
-      .navbar-brand {
-         max-width: 320px;
-      }
+	nav {
+		.navbar-brand {
+			max-width: 320px;
+		}
 
-      .nav-link {
-         margin-left: 13.5px;
-         margin-right: 13.5px;
-         font-family: Montserrat;
-         font-size: 16px;
-         color: rgb(32, 60, 27);
-      }
-   }
+		.nav-link {
+			margin-left: 13.5px;
+			margin-right: 13.5px;
+			font-family: Montserrat;
+			font-size: 16px;
+			color: rgb(32, 60, 27);
+		}
+	}
 }
 
 // home
 .home-wrapper {
-   margin-top: 20px;
-   p {
-      color: rgba(8,18,8,.6);
-   }
+	margin-top: 20px;
+	p {
+		color: rgba(8, 18, 8, 0.6);
+	}
 
-   .btn-wrapper{
-      display: flex;
-      justify-content: flex-end;
-      margin-bottom: 20px;
-      .btn {
-         font-family: Montserrat;
-         font-size: 18px;
-         background-color: rgb(121, 114, 114);
-         color: white;
-         padding: 21px 34px;
-         border-radius: 0 !important;
-         align-items: flex-end;
-      }
-   }
+	.btn-wrapper {
+		display: flex;
+		justify-content: flex-end;
+		margin-bottom: 20px;
+		.btn {
+			font-family: Montserrat;
+			font-size: 18px;
+			background-color: rgb(121, 114, 114);
+			color: white;
+			padding: 21px 34px;
+			border-radius: 0 !important;
+			align-items: flex-end;
+		}
+	}
 
-   .pink-rose-wrapper {
-      height: 400px;
-      background-image: url("../img/pink-rose.jpg");
-      background-size: cover;
-      background-repeat: no-repeat;
-      background-position: center;
-      background-attachment: fixed;
+	.pink-rose-wrapper {
+		height: 400px;
+		background-image: url("../img/pink-rose.jpg");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center;
+		background-attachment: fixed;
+	}
 
-   }
+	.event-wrapper {
+		margin-top: 20px;
+	}
 
-   .event-wrapper {
-      margin-top: 20px;
-   } 
+	.consultation-wrapper {
+		margin-top: 20px;
+		margin-bottom: 20px;
+	}
 
-   .consultation-wrapper {
-      margin-top: 20px;
-      margin-bottom: 20px;
-   }
+	.bride-bg-wrapper {
+		height: 400px;
+		background-image: url("../img/bride-bg.jpg");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center;
+		background-attachment: fixed;
+	}
 
-   .bride-bg-wrapper {
-      height: 400px;
-      background-image: url("../img/bride-bg.jpg");
-      background-size: cover;
-      background-repeat: no-repeat;
-      background-position: center;
-      background-attachment: fixed;
-
-   }
-
-   .cupcakes {
-      height: 400px;
-      background-image: url("../img/cupcakes.jpg");
-      background-size: cover;
-      background-repeat: no-repeat;
-      background-position: center top;
-      background-attachment: fixed;
-   }
+	.cupcakes {
+		height: 400px;
+		background-image: url("../img/cupcakes.jpg");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center top;
+		background-attachment: fixed;
+	}
 }
 
 // footer
 #wrapper-footer {
-   background: #262626;
-   color: white;
-   font-family: 'Open Sans', sans-serif;
-   letter-spacing: 1px;
+	background: #262626;
+	color: white;
+	font-family: "Open Sans", sans-serif;
+	letter-spacing: 1px;
 
-   .center {
-      display: flex;
-      justify-content: center;
-   }
+	.center {
+		display: flex;
+		justify-content: center;
+	}
 
-   img{
-      height: 70px;
-      width: 70px;
-   }
+	img {
+		height: 100px;
+		width: 100px;
+	}
+
+	.social-holder {
+		padding-top: 1rem;
+		i:hover {
+			color: #cccccc;
+		}
+	}
 }
-

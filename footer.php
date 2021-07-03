@@ -84,10 +84,10 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 						<div class="social-holder center">
 							<div class="social pr-4">
-								<i class="fab fa-facebook-f"></i>
+								<i class="fab fa-facebook-f fa-3x"></i>
 							</div>
 							<div class="social">
-								<i class="fab fa-instagram"></i>
+								<i class="fab fa-instagram fa-3x"></i>
 							</div>
 						</div>
 
