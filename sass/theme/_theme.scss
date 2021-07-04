@@ -1,25 +1,48 @@
 // This is an empty scss file for your custom styles - Please add your super duper awesome mega design styles here
 
-//header
-.nav-wrapper {
-	height: 600px;
-	background-image: url("../img/v-hero.jpg");
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-position: center center;
-	background-attachment: fixed;
+//home header
+.page-template-home-template {
+	.nav-wrapper {
+		height: 600px;
+		background-image: url("../img/v-hero.jpg");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		background-attachment: fixed;
 
-	nav {
-		.navbar-brand {
-			max-width: 320px;
+		nav {
+			.navbar-brand {
+				max-width: 320px;
+			}
+
+			.nav-link {
+				margin-left: 13.5px;
+				margin-right: 13.5px;
+				font-family: Montserrat;
+				font-size: 16px;
+				color: rgb(32, 60, 27);
+			}
 		}
+	}
+}
 
-		.nav-link {
-			margin-left: 13.5px;
-			margin-right: 13.5px;
-			font-family: Montserrat;
-			font-size: 16px;
-			color: rgb(32, 60, 27);
+// clean header
+.page-template-venue {
+	.nav-wrapper {
+		height: 400px;
+
+		nav {
+			.navbar-brand {
+				max-width: 320px;
+			}
+
+			.nav-link {
+				margin-left: 13.5px;
+				margin-right: 13.5px;
+				font-family: Montserrat;
+				font-size: 16px;
+				color: rgb(32, 60, 27);
+			}
 		}
 	}
 }
@@ -35,15 +58,6 @@
 		display: flex;
 		justify-content: flex-end;
 		margin-bottom: 20px;
-		.btn {
-			font-family: Montserrat;
-			font-size: 18px;
-			background-color: rgb(121, 114, 114);
-			color: white;
-			padding: 21px 34px;
-			border-radius: 0 !important;
-			align-items: flex-end;
-		}
 	}
 
 	.pink-rose-wrapper {
@@ -80,6 +94,20 @@
 		background-repeat: no-repeat;
 		background-position: center top;
 		background-attachment: fixed;
+	}
+}
+
+// venue
+.page-template-venue {
+	.flex-right {
+		margin-left: auto;
+	}
+
+	hr {
+		margin-left: auto;
+		margin-right: auto;
+		width: 50%;
+		border-top: 1px solid #ffc4b5;
 	}
 }
 
