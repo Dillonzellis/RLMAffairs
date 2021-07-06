@@ -1,5 +1,3 @@
-// This is an empty scss file for your custom styles - Please add your super duper awesome mega design styles here
-
 //home header
 .page-template-home-template {
 	.nav-wrapper {
@@ -27,7 +25,9 @@
 }
 
 // clean header
-.page-template-venue {
+.page-template-venue,
+.page-template-babycakes,
+.page-template-catering {
 	.nav-wrapper {
 		height: 400px;
 
@@ -103,12 +103,13 @@
 		margin-left: auto;
 	}
 
-	hr {
-		margin-left: auto;
-		margin-right: auto;
-		width: 50%;
-		border-top: 1px solid #ffc4b5;
+	.logo {
+		width: 132px;
 	}
+}
+
+// babycakes
+.page-template-babycakes {
 }
 
 // footer
