@@ -6,8 +6,15 @@
 	letter-spacing: 1px;
 
 	.footer-link {
-		margin-right: 20px;
-		margin-bottom: 50px;
+		margin-bottom: 10px;
+		margin-right: 10px;
+		@media (max-width: $md) {
+			text-align: center;
+		}
+		@media (min-width: $lg) {
+			margin-right: 20px;
+			margin-bottom: 50px;
+		}
 	}
 
 	.hours {

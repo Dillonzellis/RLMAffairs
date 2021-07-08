@@ -1,15 +1,33 @@
 // home
 .home-wrapper {
-	margin-top: 20px;
+	@media (min-width: $lg) {
+		margin-top: 20px;
+		.mb-hero-img {
+			display: none;
+		}
+	}
+
 	font-family: $primary-font;
 	p {
 		color: rgba(8, 18, 8, 0.6);
 	}
 
+	.thumb-img {
+		width: 150px;
+		margin-left: auto;
+		margin-right: auto;
+		display: flex;
+		margin-bottom: 25px;
+		margin-top: 25px;
+	}
+
 	.btn-wrapper {
 		display: flex;
-		justify-content: flex-end;
 		margin-bottom: 20px;
+		justify-content: center;
+		@media (min-width: $lg) {
+			justify-content: flex-end;
+		}
 	}
 
 	.pink-rose-wrapper {
@@ -22,11 +40,15 @@
 	}
 
 	.event-wrapper {
-		margin-top: 20px;
+		@media (min-width: $md) {
+			margin-top: 20px;
+		}
 	}
 
 	.consultation-wrapper {
-		margin-top: 20px;
+		@media (min-width: $lg) {
+			margin-top: 20px;
+		}
 		margin-bottom: 20px;
 	}
 

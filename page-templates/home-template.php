@@ -12,10 +12,11 @@ defined( 'ABSPATH' ) || exit;
 get_header();
 ?>
 <div class="home-wrapper">
-	<div class="container">
+	<div class="mb-hero-img"></div>
+	<div class="container">	
 		<div class="row align-items-center">
-			<div class="col-2">
-				<img src="<?php echo get_template_directory_uri(); ?>/img/freshflorals.png" alt="logo" srcset="">
+			<div class="col-md-2">
+				<img class="thumb-img" src="<?php echo get_template_directory_uri(); ?>/img/freshflorals.png" alt="logo" srcset="">
 			</div>
 
 			<div class="col">
@@ -49,8 +50,8 @@ get_header();
 
 	<div class="container event-wrapper">
 		<div class="row align-items-center">
-			<div class="col-2">
-				<img src="<?php echo get_template_directory_uri(); ?>/img/event-planning.png" alt="logo" srcset="">
+			<div class="col-md-2">
+				<img class="thumb-img" src="<?php echo get_template_directory_uri(); ?>/img/event-planning.png" alt="logo" srcset="">
 			</div>
 			<div class="col">
 				<p>
@@ -76,7 +77,7 @@ get_header();
 		</div>
 
 		<div class="row consultation-wrapper align-items-center">
-			<div class="col-8">
+			<div class="col-md-8">
 				<p>
 					We plan, design and fully execute beautiful celebrations of any size. We love creating events that
 					will make
@@ -99,8 +100,8 @@ get_header();
 
 	<div class="container">
 		<div class="row align-items-center">
-			<div class="col-2">
-				<img src="<?php echo get_template_directory_uri(); ?>/img/babycakes.png" alt="logo" srcset="">
+			<div class="col-md-2">
+				<img class="thumb-img" src="<?php echo get_template_directory_uri(); ?>/img/babycakes.png" alt="logo" srcset="">
 			</div>
 
 			<div class="col">
