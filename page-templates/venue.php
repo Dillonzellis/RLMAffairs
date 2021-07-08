@@ -68,7 +68,7 @@ get_header('clean');
         <li>2 tier Cake with Cake stand, Staff will cut & serve cake Vanilla or Chocolate, Rough, Smooth or Naked iced</li>
         <li>Staff for event 4 hours</li>
         <li>Rehearsal Day of Event</li>
-        <li>Monday- Thursday: $2900.00</li>
+        <li><em>Monday- Thursday: $2900.00</em></li>
     </ul>
 
     <div class="row">
@@ -91,7 +91,7 @@ get_header('clean');
         <li>Staff for event 4 hours</li>
         <li>Wedding Ceremony Coordination/Dinner service/ Cake Cutting</li>
         <li>Rehearsal Day of Event</li>
-        <li>Monday- Thursday: $4000.00</li>
+        <li><em>Monday- Thursday: $4000.00</em></li>
     </ul>
 
     <div class="row">
@@ -115,7 +115,7 @@ get_header('clean');
         <li>Day of Coordinator Wedding Ceremony Coordination/Dinner service/ Cake Cutting</li>
         <li>Rehearsal with coordinator </li>
         <li>Clean up</li>
-        <li>Monday- Thursday: $5900.00</li>
+        <li><em>Monday- Thursday: $5900.00</em></li>
     </ul>
 
     <div class="row">
@@ -140,7 +140,7 @@ get_header('clean');
         <li>Day of Coordinator Wedding Ceremony Coordination/Dinner service/ Cake Cutting</li>
         <li>Rehearsal with coordinator </li>
         <li>Full set up & Clean up</li>
-        <li>Monday- Thursday: $7900.00</li>
+        <li><em>Monday- Thursday: $7900.00</em></li>
     </ul>
 
     <div class="row">
@@ -198,45 +198,45 @@ get_header('clean');
         <div class="photography mb-5">
             <h5 class="bold">Photography:</h5>
             <p>Rita Wedding Studio https://ritaweddingstudio</p>
-            <p><em>Far Out Galaxy</em> - Photography - <em>770-876-9248</em></p>
-            <p><em>Far Out Galaxy</em> - Cinematography - <em>770-876-9248</em></p>
+            <a href="https://sixheartsphotography.com/" target="_blank" rel="noopener noreferrer"><p><em>Far Out Galaxy</em></a> - Photography - <a href="tel:+770-876-9248"><em>770-876-9248</em></a></p>
+            <a href="https://squidwed.com/" target="_blank" rel="noopener noreferrer"><p><em>Far Out Galaxy</em></a> - Cinematography - <a href="tel:+770-876-9248"><em>770-876-9248</em></a></p>
             <p>Cheri Michelle Photography</p>
         </div>
 
         <div class="dj-services mb-5">
             <h5 class="bold">DJ Services:</h5>
-            <p><em>Far Out Galaxy</em> - (DJ) - <em>770-876-9248</em></p>
+            <a href="https://djcuttlefish.com/about-us/" target="_blank" rel="noopener noreferrer"><p><em>Far Out Galaxy</em></a> - (DJ) - <a href="tel:+770-876-9248"><em>770-876-9248</em></a></p>
         </div>
 
         <div class="officiant mb-5">
             <h5 class="bold">Officiant:</h5>
-            <a href="https://www.weddingofficiantga.com/" target="_blank" rel="noopener noreferrer"><p><em>Rev. Heinz Kloeter</em></a> - <em>678-983-7976</em></p>
-            <p><em>Alternative Weddings</em>  - Rev. Dr. Barbara Roberts - 706-265-7794</p>
-            <p><em>Rev. Gale York</em> - <em>678-890-4881</em></p>
-            <p>Davis Palmour - 706-455-8421</p>
-            <p><a href="https://ceremoniesbyrick.com/" target="_blank" rel="noopener noreferrer"><em>Ceremonies By Rick</em></a> - Rick Durham - <em>706-654-6268</em></p>
-            <p><em>Tyler Maraia</em> - <em>206-245-5986</em></p>
-            <p>Sensational Ceremonies - Dr. Gregg Potts - 678-205-7267</p>
-            <p><em>Sue Palmer (minister)</em> - <em>470-232-1170</em></p>
-            <p>Rocky Thompason - <em>770-490-1274</em></p>
+            <a href="https://www.weddingofficiantga.com/" target="_blank" rel="noopener noreferrer"><p><em>Rev. Heinz Kloeter</em></a> - <a href="tel:+678-983-7976"><em>678-983-7976</em></a></p>
+            <a href="http://www.alternativeweddingsbyrevroberts.com/" target="_blank" rel="noopener noreferrer"><p><em>Alternative Weddings</em></a>  - Rev. Dr. Barbara Roberts - <a href="tel:+706-265-7794"><em>706-265-7794</em></a></p>
+            <a href="https://www.weddingwire.com/biz/reverend-gale-m-york-alpharetta/9d305b6b2c47239e.html" target="_blank" rel="noopener noreferrer"><p><em>Rev. Gale York</em></a> - <a href="tel:+678-890-4881"><em>678-890-4881</em></a></p>
+            <p>Davis Palmour - <a href="tel:+706-455-8421">706-455-8421</a></p>
+            <p><a href="https://ceremoniesbyrick.com/" target="_blank" rel="noopener noreferrer"><em>Ceremonies By Rick</em></a> - Rick Durham - <a href="tel:+706-654-6268"><em>706-654-6268</em></a></p>
+            <a href="mailto:tjmaraia@gmail.com"><p><em>Tyler Maraia</em></a> - <a href="tel:+206-245-5986"><em>206-245-5986</em></a></p>
+            <p>Sensational Ceremonies - Dr. Gregg Potts - <a href="tel:+678-205-7267">678-205-7267</a></p>
+            <a href="mailto:godsgatheringchurch@gmail.com"><p><em>Sue Palmer (minister)</em></a> - <a href="tel:+470-232-1170"><em>470-232-1170</em></a></p>
+            <p>Rocky Thompason - <a href="tel:+770-490-1274"><em>770-490-1274</em></a></p>
         </div>
 
         <div class="hair-makeup mb-5">
             <h5 class="bold">Hair & Make Up</h5>
-            <p><em>Bliss Formal Hair</em> - Candice Miklius</p>
-            <p><em>Mind's Eye Salon</em> - <em>678-828-7747</em></p>
+            <a href="https://blissformalhair.com/" target="_blank" rel="noopener noreferrer"><p><em>Bliss Formal Hair</em></a> - Candice Miklius</p>
+            <a href="https://www.mindseyeinkandhair.com/" target="_blank" rel="noopener noreferrer"><p><em>Mind's Eye Salon</em></a> - <a href="tel:+678-828-7747"><em>678-828-7747</em></a></p>
         </div>
 
         <div class="event-travel mb-5">
             <h5 class="bold">Event Travel & Insurance</h5>
-            <p>Vacations by Sally - Sally Pavao - <em>706-360-1346</em></p>
-            <p><em>VIP Southern Tours</em>  - <em>706-348-8747</em></p>
-            <p><em>Bradford Turner Insurance Group</em> - Brittany Turner - <em>Wedding Rate Chart</em> - <em>Wedding Quote</em></p>
+            <p>Vacations by Sally - Sally Pavao - <a href="tel:+706-360-1346"><em>706-360-1346</em></a></p>
+            <a href="https://vipsoutherntours.com/" target="_blank" rel="noopener noreferrer"><p><em>VIP Southern Tours</em></a>  - <a href="tel:+706-348-8747"><em>706-348-8747</em></a></p>
+            <a href="http://juliettechapel.com/wp-content/uploads/2020/02/e-Brochure-1.pdf" target="_blank" rel="noopener noreferrer"><p><em>Bradford Turner Insurance Group</em></a> - Brittany Turner - <a href="http://juliettechapel.com/wp-content/uploads/2020/02/Wedding-Rate-Chart-1.pdf" target="_blank" rel="noopener noreferrer"></a><em>Wedding Rate Chart</em></a> - <a href="http://wedding%20protector%20plan-quote%20%26%20issue/" target="_blank" rel="noopener noreferrer"><em>Wedding Quote</em></a></p>
         </div>
 
         <div class="bartending mb-5">
             <h5 class="bold">Bartending:</h5>
-            <p>Kim's Cocktails - <em>404-273-5902</em> -  <em>Kim Pickerel</em></p>
+            <p>Kim's Cocktails - <a href="tel:+404-273-5902"><em>404-273-5902</em></a> - <a href="mailto:kimpickerel22@gmail.com"><em>Kim Pickerel</em></a></p>
         </div>
     </div>
 </div>

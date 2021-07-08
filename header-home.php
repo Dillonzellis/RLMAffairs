@@ -54,7 +54,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 							<a class="nav-link" href="<?php echo esc_url( home_url( '/estate-room-gardens/' ) ); ?>">Venue</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="https://rlmflorist.com/">RLM Florist</a>
+							<a class="nav-link" href="<?php echo esc_url( home_url( '/rlm-florist/' ) ); ?>">RLM Florist</a>
 						</li>
 						<li class="nav-item">
 							<a class="nav-link" href="<?php echo esc_url( home_url( '/catering-menu/' ) ); ?>">Catering Menu</a>

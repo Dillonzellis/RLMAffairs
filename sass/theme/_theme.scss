@@ -31,7 +31,8 @@
 // clean header
 .page-template-venue,
 .page-template-babycakes,
-.page-template-catering {
+.page-template-catering,
+.page-template-florist {
 	.nav-wrapper {
 		height: 400px;
 
@@ -108,6 +109,10 @@
 
 // venue
 .page-template-venue {
+	h1 {
+		font-weight: bold;
+	}
+
 	.flex-right {
 		margin-left: auto;
 	}
@@ -130,6 +135,13 @@
 // babycakes
 // .page-template-babycakes {
 // }
+
+// RLM Florist
+.page-template-florist {
+	.floral-image {
+		height: 480px;
+	}
+}
 
 // footer
 #wrapper-footer {
