@@ -41,7 +41,7 @@
 .page-template-home-template {
 	.nav-wrapper {
 		@media (min-width: $lg) {
-			height: 600px;
+			height: 400px;
 			background-image: url("../img/v-hero.jpg");
 			background-size: cover;
 			background-repeat: no-repeat;
@@ -50,6 +50,7 @@
 
 			@media (min-width: $xl) {
 				background-position: center top;
+				height: 600px;
 			}
 			@media (min-width: 2000px) {
 				background-position: center center;

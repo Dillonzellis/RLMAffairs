@@ -6,7 +6,7 @@
 // Exit if accessed directly.
 defined( 'ABSPATH' ) || exit;
 
-get_header('test');
+get_header();
 ?>
 
 <div class="container">
