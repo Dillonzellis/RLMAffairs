@@ -1,0 +1,50 @@
+// home
+.home-wrapper {
+	margin-top: 20px;
+	font-family: $primary-font;
+	p {
+		color: rgba(8, 18, 8, 0.6);
+	}
+
+	.btn-wrapper {
+		display: flex;
+		justify-content: flex-end;
+		margin-bottom: 20px;
+	}
+
+	.pink-rose-wrapper {
+		height: 400px;
+		background-image: url("../img/pink-rose.jpg");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center;
+		background-attachment: fixed;
+	}
+
+	.event-wrapper {
+		margin-top: 20px;
+	}
+
+	.consultation-wrapper {
+		margin-top: 20px;
+		margin-bottom: 20px;
+	}
+
+	.bride-bg-wrapper {
+		height: 400px;
+		background-image: url("../img/bride-bg.jpg");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center;
+		background-attachment: fixed;
+	}
+
+	.cupcakes {
+		height: 400px;
+		background-image: url("../img/cupcakes.jpg");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center top;
+		background-attachment: fixed;
+	}
+}
