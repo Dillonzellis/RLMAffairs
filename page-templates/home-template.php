@@ -35,9 +35,9 @@ get_header('home');
 		<div class="row">
 			<div class="col">
 				<div class="btn-wrapper">
-					<button class="btn">
+					<a href="https://rlmflorist.com/" target="_blank" rel="noopener noreferrer"><button class="btn">
 						ORDER FLOWERS NOW
-					</button>
+					</button></a>
 				</div>
 			</div>
 		</div>
@@ -86,9 +86,9 @@ get_header('home');
 			</div>
 			<div class="col">
 				<div class="btn-wrapper">
-					<button class="btn">
+					<a href="https://hello.dubsado.com/public/form/view/5b15e29489c7f32312deacab" target="_blank" rel="noopener noreferrer"><button class="btn">
 						CONSULTATION FORM
-					</button>
+					</button></a>
 				</div>
 			</div>
 		</div>
@@ -119,9 +119,9 @@ get_header('home');
 		<div class="row">
 			<div class="col">
 				<div class="btn-wrapper">
-					<button class="btn">
+					<a href="https://rlmflorist.com/product-category/babycakes/babycakes-cupcakes/" target="_blank" rel="noopener noreferrer"><button class="btn">
 						ORDER BABYCAKES NOW
-					</button>
+					</button></a>
 				</div>
 
 			</div>

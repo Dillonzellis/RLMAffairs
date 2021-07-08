@@ -14,9 +14,9 @@ get_header('clean');
         <h1>RLM Affairs Estate Room & Gardens</h1>
 
         <div class="btn-wrapper flex-right">
-            <button class="btn">
+            <a href="https://hello.dubsado.com/public/form/view/5b15e29489c7f32312deacab" target="_blank" rel="noopener noreferrer"><button class="btn">
                 CONSULTATION FORM
-            </button>
+            </button></a>
         </div>
     </div>
 
