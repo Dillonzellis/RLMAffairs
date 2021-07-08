@@ -21,35 +21,28 @@ $container = get_theme_mod( 'understrap_container_type' );
 			<div class="col-md-12">
 				<footer class="site-footer" id="colophon">
 					<div class="site-info">
-							<!-- <div class="row mb-3 ml-5 mr-5">
-								<div class="col-2 center">
+						<div class="row justify-content-center">
+							<div class="footer-link">
+								<a href="https://www.rlmaffairs.com/">
 									RLM AFFAIRS
-								</div>
-								<div class="col-5 center">
-									3575 McEver Road, Gainesville, GA, 30504, United States
-								</div>
-								<div class="col-2 center">
-									770-536-7306
-								</div>
-								<div class="col-2 center">
-									Resia@RLMAffairs.com
-								</div>
-							</div> -->
-
-							<div class="row justify-content-center">
-								<div class="footer-link">
-									RLM AFFAIRS
-								</div>
-								<div class="footer-link">
-									3575 McEver Road, Gainesville, GA, 30504, United States
-								</div>
-								<div class="footer-link">
-									770-536-7306
-								</div>
-								<div class="footer-link">
-									Resia@RLMAffairs.com
-								</div>
+								</a>	
 							</div>
+							<div class="footer-link">
+								<a href="http://maps.google.com/?q=3575 McEver Road, Gainesville, GA, 30504, United States" target="_blank" rel="noopener noreferrer">
+									3575 McEver Road, Gainesville, GA, 30504, United States
+								</a>
+							</div>
+							<div class="footer-link">
+								<a href="tel:+770-536-7306">
+									770-536-7306
+								</a>
+							</div>
+							<div class="footer-link">
+								<a href="mailto:Resia@RLMAffairs.com">
+									Resia@RLMAffairs.com
+								</a>
+							</div>
+						</div>
 
 						<div class="row justify-content-center align-items-center">
 							<div class="footer-link">
