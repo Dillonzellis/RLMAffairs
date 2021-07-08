@@ -1,11 +1,26 @@
+body {
+	color: $primary;
+}
+
+@font-face {
+	font-family: Minion Pro Regular;
+	src: url(rlmaffairs/wp-content/themes/twentynineteen/fonts/Minion-Pro-Regular.ttf);
+	font-weight: normal;
+}
+
 .btn {
-	font-family: Montserrat;
+	font-family: "PT Sans Narrow", sans-serif;
 	font-size: 18px;
 	background-color: rgb(121, 114, 114);
+	letter-spacing: 1.8px;
 	color: white;
 	padding: 21px 34px;
 	border-radius: 0 !important;
 	align-items: flex-end;
+	&:hover {
+		background-color: #948e8e;
+		color: white;
+	}
 }
 
 hr {
@@ -13,4 +28,44 @@ hr {
 	margin-right: auto;
 	width: 50%;
 	border-top: 1px solid #ffc4b5;
+}
+
+.center {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.flex-center {
+	display: flex;
+	justify-content: center;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.italic {
+	font-style: italic;
+}
+
+.underline {
+	text-decoration: underline;
+}
+
+.inline {
+	display: inline;
+}
+
+em {
+	font-style: italic;
+	font-weight: bold;
+	text-decoration: underline;
+	font-style: normal;
+}
+
+a {
+	// color: black;
+	&:hover {
+		color: $primary;
+	}
 }

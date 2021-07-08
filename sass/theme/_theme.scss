@@ -19,6 +19,10 @@
 				font-family: Montserrat;
 				font-size: 16px;
 				color: rgb(32, 60, 27);
+				letter-spacing: -0.8px;
+				&:hover {
+					opacity: 0.6;
+				}
 			}
 		}
 	}
@@ -42,6 +46,10 @@
 				font-family: Montserrat;
 				font-size: 16px;
 				color: rgb(32, 60, 27);
+				letter-spacing: -0.8px;
+				&:hover {
+					opacity: 0.6;
+				}
 			}
 		}
 	}
@@ -50,6 +58,7 @@
 // home
 .home-wrapper {
 	margin-top: 20px;
+	font-family: $primary-font;
 	p {
 		color: rgba(8, 18, 8, 0.6);
 	}
@@ -106,22 +115,36 @@
 	.logo {
 		width: 132px;
 	}
+
+	.package-header {
+		font-weight: bold;
+		font-style: italic;
+		text-decoration: underline;
+	}
+
+	.entry-title {
+		display: none;
+	}
 }
 
 // babycakes
-.page-template-babycakes {
-}
+// .page-template-babycakes {
+// }
 
 // footer
 #wrapper-footer {
 	background: #262626;
 	color: white;
-	font-family: "Open Sans", sans-serif;
+	font-family: $button-font, sans-serif;
 	letter-spacing: 1px;
 
-	.center {
-		display: flex;
-		justify-content: center;
+	.footer-link {
+		margin-right: 20px;
+		margin-bottom: 50px;
+	}
+
+	.hours {
+		font-size: 14px;
 	}
 
 	img {
@@ -131,8 +154,19 @@
 
 	.social-holder {
 		padding-top: 1rem;
-		i:hover {
-			color: #cccccc;
+
+		.fb {
+			height: 50px;
+			width: 50px;
+		}
+
+		.fa-facebook-f {
+			color: #3b5998;
+		}
+		i {
+			&:hover {
+				color: #cccccc;
+			}
 		}
 	}
 }

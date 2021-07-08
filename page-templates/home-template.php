@@ -19,8 +19,8 @@ get_header('home');
 			</div>
 
 			<div class="col">
-				<p>
-					Floral Showroom: RLM Affairs is a full-service florist serving North Georgia for 40 years. Our award
+				<p><strong>Floral Showroom:</strong>
+					RLM Affairs is a full-service florist serving North Georgia for 40 years. Our award
 					winning
 					designers offer exquisite attention to detail. Whether it’s a single rose or decor for an entire
 					Gala
@@ -129,7 +129,7 @@ get_header('home');
 	</div>
 
 
-	<div class="cupcakes">sasas</div>
+	<div class="cupcakes"></div>
 
 
 

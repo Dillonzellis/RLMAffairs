@@ -8,8 +8,9 @@ defined( 'ABSPATH' ) || exit;
 
 get_header('clean');
 ?>
+
 <div class="container">
-    <div class="row mb-5">
+    <div class="row align-items-center mb-5">
         <h1>RLM Affairs Estate Room & Gardens</h1>
 
         <div class="btn-wrapper flex-right">
@@ -22,7 +23,6 @@ get_header('clean');
     <div class="row justify-content-center mb-5">
         <img src="<?php echo get_template_directory_uri(); ?>/img/lanterns.jpg" alt="" srcset="">
     </div>
-    
 </div>
 
 <hr class="mb-5">
@@ -38,7 +38,6 @@ get_header('clean');
                 RLM Affairs offers all the services you may need for your event. Our staff works directly with our clients to tailor each event to your specific needs. Whether you need just catering, or a complete event design, we will work with you as much as you need, or we will provide you with A la carte services based specifically on your needs and budget. Our award winning catering, wedding planning, cakes, and floral design are available every day, breakfast, lunch, dinner, or in between.
             </p>
         </div>
-
     </div>
 </div>
 
@@ -51,7 +50,7 @@ get_header('clean');
         </div>
     </div>
     <div class="row">
-        <div class="col">
+        <div class="col package-header">
             Sapphire Wedding Package: $3300.00 
         </div>
     </div>
@@ -71,11 +70,9 @@ get_header('clean');
         <li>Rehearsal Day of Event</li>
         <li>Monday- Thursday: $2900.00</li>
     </ul>
-</div>
 
-<div class="container">
     <div class="row">
-        <div class="col">
+        <div class="col package-header">
             Emerald Wedding Package: $4500.00
         </div>
     </div>
@@ -96,11 +93,9 @@ get_header('clean');
         <li>Rehearsal Day of Event</li>
         <li>Monday- Thursday: $4000.00</li>
     </ul>
-</div>
 
-<div class="container">
     <div class="row">
-        <div class="col">
+        <div class="col package-header">
             Ruby Wedding Package: $6400.00
         </div>
     </div>
@@ -122,11 +117,9 @@ get_header('clean');
         <li>Clean up</li>
         <li>Monday- Thursday: $5900.00</li>
     </ul>
-</div>
 
-<div class="container">
     <div class="row">
-        <div class="col">
+        <div class="col package-header">
             Diamond  Wedding Package: $8400.00
         </div>
     </div>
@@ -149,11 +142,9 @@ get_header('clean');
         <li>Full set up & Clean up</li>
         <li>Monday- Thursday: $7900.00</li>
     </ul>
-</div>
 
-<div class="container">
     <div class="row">
-        <div class="col">
+        <div class="col package-header">
             Reception Only: $2700.00
         </div>
     </div>
@@ -171,125 +162,91 @@ get_header('clean');
         <li>2 tier cake with Cake stand Vanilla or Chocolate, Rough, Smooth or Naked iced</li>
         <li>Staff for event 4 hours</li>
     </ul>
-</div>
 
-<div class="container">
-
-    <h3>Rental Fees:</h3>
-
-    <p>Photo Booth Wall $300.00</p>
-
-    <p>Corn Hole, Giant Jenga $10.00 each per event</p>
-
-    <p>Champagne Wall $1.50 a glass</p>
-
-    <p>Sparkler Buckets $4.00 each</p>
-
-    <p>Bar Glassware $16 a rack</p>
-
-    <p>Extra Decanters $8.00 each</p>
-
-    <p>Tasting $75.00</p>
-
-    <p>Fridays, Saturdays & Sundays - $1800.00 10 hours
-    Monday-Thursday - $1,200 6 hours /Hourly rental 250.00 an hour
-    A $500 deposit is required to hold a date. This deposit is not refundable.</p>
-
-    <h3>Venue Features</h3>
-
-    <ul>
-        <li>Outdoor Pew seating / Reception seating</li>
-        <li>Private Lounge & Dressing rooms with private bath and separate entrance</li>
-        <li>Built in Food Service Bar</li>
-        <li>Built in Bar</li>
-        <li>Full kitchen</li>
-        <li>Outdoor patio space with outdoor seating areas, fairy & Café lights</li>
-        <li>Audio system throughout & Microphone</li>
-        <li>Dance Floor</li>
-        <li>Vintage Estate wood Tables & folding chairs</li>
-    </ul>
-
-    <h3>Preferred Vendors:</h3>
-
-    <h4>Photography:</h4>
-
-    <p>Rita Wedding Studio https://ritaweddingstudio</p>
-
-    <p>Far Out Galaxy - Photography - 770-876-9248</p>
-
-    <p>Far Out Galaxy - Cinematography - 770-876-9248</p>
-
-    <p>Cheri Michelle Photography</p>
-
-    <br>
-
-    <h3>DJ Services:</h3>
-
-    <p>Far Out Galaxy - (DJ) - 770-876-9248</p>
-
-    <h3>Officiant:</h3>
-
-    <p>Rev. Heinz Kloeter - 678-983-7976</p>
-
-    <p>Alternative Weddings  - Rev. Dr. Barbara Roberts - 706-265-7794</p>
-
-    <p>Rev. Gale York - 678-890-4881</p>
-
-    <p>Davis Palmour - 706-455-8421</p>
-
-    <p>Ceremonies By Rick - Rick Durham - 706-654-6268</p>
-
-    <p>Tyler Maraia - 206-245-5986</p>
-
-    <p>Sensational Ceremonies - Dr. Gregg Potts - 678-205-7267</p>
-
-    <p>Sue Palmer (minister) - 470-232-1170</p>
-
-    <p>Rocky Thompason - 770-490-1274</p>
-
-    <br>
-
-    <h3>Hair & Make UP</h3>
-
-    <p>Bliss Formal Hair - Candice Miklius</p>
-
-    <p>Mind's Eye Salon - 678-828-7747</p>
-
-    <h3>Event Travel & Insurance</h3>
-
-    <p>Vacations by Sally - Sally Pavao - 706-360-1346</p>
-
-    <p>VIP Southern Tours  - 706-348-8747</p>
-
-    <p>Bradford Turner Insurance Group - Brittany Turner - Wedding Rate Chart - Wedding Quote</p>
-
-    <h3>Bartending:</h3>
-
-    <p>Kim's Cocktails - 404-273-5902 -  Kim Pickerel</p>
-</div>
-
-<div class="container photos">
-
-    <div class="row">
-        <div class="col"></div>
-        <div class="col"></div>
-        <div class="col"></div>
+    <div class="rentals mt-5 mb-5">
+        <h4 class="bold underline">Rental Fees:</h4>
+        <p class="underline">Photo Booth Wall $300.00</p>
+        <p class="underline">Corn Hole, Giant Jenga $10.00 each per event</p>
+        <p class="underline">Champagne Wall $1.50 a glass</p>
+        <p class="underline">Sparkler Buckets $4.00 each</p>
+        <p class="underline">Bar Glassware $16 a rack</p>
+        <p class="underline">Extra Decanters $8.00 each</p>
+        <p class="underline">Tasting $75.00</p>
+        
+        <p>Fridays, Saturdays & Sundays - $1800.00 10 hours
+        Monday-Thursday - $1,200 6 hours /Hourly rental 250.00 an hour
+        A $500 deposit is required to hold a date. This deposit is not refundable.</p>
+    </div>
+ 
+    <div class="venue-features mb-5">
+        <h4 class="bold underline">Venue Features:</h4>
+        <ul>
+            <li>Outdoor Pew seating / Reception seating</li>
+            <li>Private Lounge & Dressing rooms with private bath and separate entrance</li>
+            <li>Built in Food Service Bar</li>
+            <li>Built in Bar</li>
+            <li>Full kitchen</li>
+            <li>Outdoor patio space with outdoor seating areas, fairy & Café lights</li>
+            <li>Audio system throughout & Microphone</li>
+            <li>Dance Floor</li>
+            <li>Vintage Estate wood Tables & folding chairs</li>
+        </ul>
     </div>
 
+    <div class="vendors">
+        <h4 class="bold">Preferred Vendors:</h4>
+        <div class="photography mb-5">
+            <h5 class="bold">Photography:</h5>
+            <p>Rita Wedding Studio https://ritaweddingstudio</p>
+            <p><em>Far Out Galaxy</em> - Photography - <em>770-876-9248</em></p>
+            <p><em>Far Out Galaxy</em> - Cinematography - <em>770-876-9248</em></p>
+            <p>Cheri Michelle Photography</p>
+        </div>
+
+        <div class="dj-services mb-5">
+            <h5 class="bold">DJ Services:</h5>
+            <p><em>Far Out Galaxy</em> - (DJ) - <em>770-876-9248</em></p>
+        </div>
+
+        <div class="officiant mb-5">
+            <h5 class="bold">Officiant:</h5>
+            <a href="https://www.weddingofficiantga.com/" target="_blank" rel="noopener noreferrer"><p><em>Rev. Heinz Kloeter</em></a> - <em>678-983-7976</em></p>
+            <p><em>Alternative Weddings</em>  - Rev. Dr. Barbara Roberts - 706-265-7794</p>
+            <p><em>Rev. Gale York</em> - <em>678-890-4881</em></p>
+            <p>Davis Palmour - 706-455-8421</p>
+            <p><a href="https://ceremoniesbyrick.com/" target="_blank" rel="noopener noreferrer"><em>Ceremonies By Rick</em></a> - Rick Durham - <em>706-654-6268</em></p>
+            <p><em>Tyler Maraia</em> - <em>206-245-5986</em></p>
+            <p>Sensational Ceremonies - Dr. Gregg Potts - 678-205-7267</p>
+            <p><em>Sue Palmer (minister)</em> - <em>470-232-1170</em></p>
+            <p>Rocky Thompason - <em>770-490-1274</em></p>
+        </div>
+
+        <div class="hair-makeup mb-5">
+            <h5 class="bold">Hair & Make Up</h5>
+            <p><em>Bliss Formal Hair</em> - Candice Miklius</p>
+            <p><em>Mind's Eye Salon</em> - <em>678-828-7747</em></p>
+        </div>
+
+        <div class="event-travel mb-5">
+            <h5 class="bold">Event Travel & Insurance</h5>
+            <p>Vacations by Sally - Sally Pavao - <em>706-360-1346</em></p>
+            <p><em>VIP Southern Tours</em>  - <em>706-348-8747</em></p>
+            <p><em>Bradford Turner Insurance Group</em> - Brittany Turner - <em>Wedding Rate Chart</em> - <em>Wedding Quote</em></p>
+        </div>
+
+        <div class="bartending mb-5">
+            <h5 class="bold">Bartending:</h5>
+            <p>Kim's Cocktails - <em>404-273-5902</em> -  <em>Kim Pickerel</em></p>
+        </div>
+    </div>
 </div>
 
-<div class="container">
-    <?php
-        while ( have_posts() ) {
-            the_post();
-            get_template_part( 'loop-templates/content', 'page' );
-
-
-        }
-    ?>
-</div>
-
-
+<?php
+    while ( have_posts() ) {
+        the_post();
+        get_template_part( 'loop-templates/content', 'page' );
+    }
+?>
 
 <?php
 get_footer();

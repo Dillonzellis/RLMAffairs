@@ -20,4 +20,17 @@ get_header('clean');
     </div>
 </div>
 
+<div class="container-fluid">
+    <div class="row justify-content-center">
+        <img src="<?php echo get_template_directory_uri(); ?>/img/rlm+menu+2021+new-1.jpg" alt="" srcset="">
+    </div>
+    <div class="row justify-content-center">
+        <img src="<?php echo get_template_directory_uri(); ?>/img/rlm+menu+2021+new-2.jpg" alt="" srcset="">
+    </div>
+    <div class="row justify-content-center mb-5">
+        <img src="<?php echo get_template_directory_uri(); ?>/img/rlm+menu+2021+new-3.jpg" alt="" srcset="">
+    </div>
+</div>
+
+
 <?php get_footer();
