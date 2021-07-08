@@ -36,7 +36,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 			<nav class="navbar navbar-expand-lg container">
 
 				<a class="navbar-brand" href="<?php echo esc_url( home_url( '/' ) ); ?>">
-					<img src="<?php echo get_template_directory_uri(); ?>/img/RLMAffairs-Logo.png" alt="logo" srcset="">
+					<img class="header-logo" src="<?php echo get_template_directory_uri(); ?>/img/RLMAffairs-Logo.png" alt="logo" srcset="">
 				</a>
 
 

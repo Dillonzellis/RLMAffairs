@@ -1,0 +1,15 @@
+.page-template-babycakes {
+	.btn {
+		margin-top: 3rem;
+	}
+	p {
+		padding-left: 1rem;
+		padding-right: 1rem;
+		text-align: center;
+		@media (min-width: $md) {
+			text-align: start;
+			margin-top: 0;
+			padding: 0;
+		}
+	}
+}

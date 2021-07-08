@@ -1,6 +1,25 @@
 // RLM Florist
 .page-template-florist {
+	.btn {
+		margin-top: 3rem;
+	}
+
+	h2 {
+		font-weight: bold;
+	}
+
+	.text-align-center {
+		text-align: center;
+		margin-bottom: 3rem;
+		@media (min-width: $md) {
+			text-align: left;
+		}
+	}
+
 	.floral-image {
-		height: 480px;
+		margin-bottom: 2rem;
+		@media (min-width: $md) {
+			height: 480px;
+		}
 	}
 }

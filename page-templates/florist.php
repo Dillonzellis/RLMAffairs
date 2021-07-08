@@ -29,9 +29,9 @@ get_header();
 <div class="container">
     <div class="row justify-content-center">
         <h2>Floral Showroom</h2>
-        <p>Fresh Florals: RLM Affairs  is a full-service florist serving North  Georgia for 40 years. Our award winning designers offer exquisite attention to detail. Whether it’s a single rose or decor for an entire Gala every bloom is hand picked and sourced eco friendly. Our retail storefront offers modern & unique items keeping everyone in mind.</p>
+        <p class="text-align-center">Fresh Florals: RLM Affairs  is a full-service florist serving North  Georgia for 40 years. Our award winning designers offer exquisite attention to detail. Whether it’s a single rose or decor for an entire Gala every bloom is hand picked and sourced eco friendly. Our retail storefront offers modern & unique items keeping everyone in mind.</p>
     </div>
-    <div class="row justify-content-center mb-5">
+    <div class="row justify-content-center">
         <img class ="floral-image" src="<?php echo get_template_directory_uri(); ?>/img/fl-1.jpg" alt="" srcset="">
         <img class ="floral-image" src="<?php echo get_template_directory_uri(); ?>/img/fl-2.jpg" alt="" srcset="">
     </div>

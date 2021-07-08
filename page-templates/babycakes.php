@@ -21,7 +21,7 @@ get_header();
 <hr class="mb-5">
 
 <div class="container">
-    <div class="row justify-content-center">
+    <div class="row justify-content-center mb-3">
         <p>BabyCakes specializes in hand crafted cupcakes. We make everything fresh from scratch in small batches throughout the day using the finest ingredients, including sweet cream butter, Vanilla bean, bittersweet Belgian chocolate, fresh zucchini and carrots.</p>
     </div>
 
