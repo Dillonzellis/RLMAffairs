@@ -1,0 +1,59 @@
+// clean header
+.page-template-home-template,
+.page-template-venue,
+.page-template-babycakes,
+.page-template-catering,
+.page-template-florist {
+	.nav-wrapper {
+		@media (min-width: $lg) {
+			height: 400px;
+
+			nav {
+				.navbar-brand {
+					img {
+						width: 320px;
+					}
+				}
+
+				.nav-link {
+					margin-left: 13.5px;
+					margin-right: 13.5px;
+					font-family: Montserrat;
+					font-size: 16px;
+					color: rgb(32, 60, 27);
+					letter-spacing: -0.8px;
+
+					border-bottom: none;
+
+					font-weight: normal;
+					text-transform: capitalize;
+
+					&:hover {
+						opacity: 0.6;
+					}
+				}
+			}
+		}
+	}
+}
+
+//home header
+.page-template-home-template {
+	.nav-wrapper {
+		@media (min-width: $lg) {
+			height: 600px;
+			background-image: url("../img/v-hero.jpg");
+			background-size: cover;
+			background-repeat: no-repeat;
+			background-position: center center;
+			background-attachment: fixed;
+
+			@media (min-width: $xl) {
+				background-position: center top;
+			}
+			@media (min-width: 2000px) {
+				background-position: center center;
+			}
+		}
+	}
+}

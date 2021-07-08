@@ -1,0 +1,39 @@
+// footer
+#wrapper-footer {
+	background: #262626;
+	color: white;
+	font-family: $button-font, sans-serif;
+	letter-spacing: 1px;
+
+	.footer-link {
+		margin-right: 20px;
+		margin-bottom: 50px;
+	}
+
+	.hours {
+		font-size: 14px;
+	}
+
+	img {
+		height: 100px;
+		width: 100px;
+	}
+
+	.social-holder {
+		padding-top: 1rem;
+
+		.fb {
+			height: 50px;
+			width: 50px;
+		}
+
+		.fa-facebook-f {
+			color: #3b5998;
+		}
+		i {
+			&:hover {
+				color: #cccccc;
+			}
+		}
+	}
+}

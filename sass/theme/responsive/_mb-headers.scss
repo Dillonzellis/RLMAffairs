@@ -1,0 +1,39 @@
+//home header
+// .page-template-home-template {
+// 	img {
+// 		width: 200px;
+// 	}
+
+// 	.fa-bars {
+// 		color: $nav-toggler;
+// 	}
+
+// 	.nav-link {
+// 		border-bottom: 1px solid #eaeaea;
+// 		font-size: 16px;
+// 		font-weight: bold;
+// 		text-transform: uppercase;
+// 	}
+// }
+
+// clean header
+.page-template-home-template,
+.page-template-venue,
+.page-template-babycakes,
+.page-template-catering,
+.page-template-florist {
+	img {
+		width: 200px;
+	}
+
+	.fa-bars {
+		color: $nav-toggler;
+	}
+
+	.nav-link {
+		border-bottom: 1px solid #eaeaea;
+		font-size: 16px;
+		font-weight: bold;
+		text-transform: uppercase;
+	}
+}

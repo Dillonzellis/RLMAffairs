@@ -42,7 +42,9 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
 					aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-					<span class="navbar-toggler-icon"></span>
+					<span class="navbar-toggler-icon">
+						<i class="fas fa-bars fa-2x"></i>
+					</span>
 				</button>
 
 				<div class="collapse navbar-collapse" id="navbarNav">
