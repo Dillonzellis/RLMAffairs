@@ -32,5 +32,73 @@ get_header();
     </div>
 </div>
 
+<div class="container">
+    <div class="row">
+        <img class="menu-header-img" src="<?php echo get_template_directory_uri(); ?>/img/veri.jpg" alt="" srcset=""  width="auto" height="230">
+    </div>
+    <div class="row">
+        <h1>Catering Menu</h1>
+    </div>
+    <div class="row">
+        <h2>Hors D'oeuvres Stations</h2>
+    </div>
+    <div class="row mb-5">
+        <div class="col">
+            <img src="<?php echo get_template_directory_uri(); ?>/img/charc.jpg" alt="" srcset=""  width="auto" height="230">
+        </div>
+        <div class="col">
+            <div class="menu-items">
+                <ul>
+                    <li>
+                        item
+                    </li>
+                    <li>
+                        item
+                    </li>
+                    <li>
+                        item
+                    </li>
+                    <li>
+                        item
+                    </li>
+                    <li>
+                        item
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <h2>Salad Selections</h2>
+    </div>
+    <div class="row">
+        <div class="col">
+            <div class="menu-items">
+                <ul>
+                    <li>
+                        item
+                    </li>
+                    <li>
+                        item
+                    </li>
+                    <li>
+                        item
+                    </li>
+                    <li>
+                        item
+                    </li>
+                    <li>
+                        item
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="col">
+            <img src="<?php echo get_template_directory_uri(); ?>/img/salads.jpg" alt="" srcset=""  width="auto" height="230">
+        </div>
+    </div>
+</div>
+
 
 <?php get_footer();

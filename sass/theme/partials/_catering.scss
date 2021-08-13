@@ -11,4 +11,41 @@
 			padding: 0;
 		}
 	}
+
+	.menu-header-img {
+		height: 230px;
+		width: 100%;
+		object-fit: cover;
+		padding-bottom: 5px;
+		border-bottom: 2px solid #3a8346;
+	}
+
+	h1 {
+		color: #3a8346;
+		margin-top: 1.5rem;
+		padding-left: 25%;
+		padding-bottom: 5px;
+		border-bottom: 2px solid #3a8346;
+		font-family: "Dancing Script", cursive;
+		font-weight: bold;
+		margin-bottom: 3.5rem;
+	}
+
+	h2 {
+		color: black;
+		font-size: 1.8rem;
+		padding-left: 40%;
+		border-bottom: 2px solid black;
+		font-family: "Dancing Script", cursive;
+		font-weight: bold;
+	}
+
+	.menu-items {
+		font-family: "Dancing Script", cursive;
+		color: #4fa75d;
+		font-size: 1.5rem;
+		ul {
+			list-style-type: square;
+		}
+	}
 }
