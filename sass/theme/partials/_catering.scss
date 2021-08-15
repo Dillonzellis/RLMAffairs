@@ -48,4 +48,28 @@
 			list-style-type: square;
 		}
 	}
+
+	.salad {
+		width: 380px;
+		height: 270px;
+		object-fit: cover;
+	}
+
+	.buffet {
+		width: 357.5px;
+		height: 237.9px;
+		object-fit: cover;
+	}
+
+	.asparagus {
+		width: auto;
+		height: 420px;
+		object-fit: cover;
+	}
+
+	.stations {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+	}
 }
