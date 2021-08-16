@@ -34,19 +34,19 @@ get_header();
 
 <div class="container">
     <div class="row">
-        <img class="menu-header-img" src="<?php echo get_template_directory_uri(); ?>/img/veri.jpg" alt="" srcset=""  width="auto" height="230">
+        <img class="menu-header-img " src="<?php echo get_template_directory_uri(); ?>/img/veri.jpg" alt="" srcset=""  width="auto" height="230">
     </div>
     <div class="row">
         <h1>Catering Menu</h1>
     </div>
-    <div class="row">
-        <h2>Hors D'oeuvres Stations</h2>
+    <div class="row mobile-headers">
+        <h2 class="main-header">Hors D'oeuvres Stations</h2>
     </div>
     <div class="row mb-5">
-        <div class="col">
-            <img src="<?php echo get_template_directory_uri(); ?>/img/charc.jpg" alt="" srcset=""  width="auto" height="230">
+        <div class="col-md">
+            <img class="img-blur" src="<?php echo get_template_directory_uri(); ?>/img/charc.jpg" alt="" srcset=""  width="auto" height="230">
         </div>
-        <div class="col">
+        <div class="col-md">
             <div class="menu-items">
                 <ul>
                     <li>
@@ -101,11 +101,11 @@ get_header();
             </div>
         </div>
     </div>
-    <div class="row">
-        <h2>Salad Selections</h2>
+    <div class="row mobile-headers">
+        <h2 class="sub-header">Salad Selections</h2>
     </div>
     <div class="row mb-5">
-        <div class="col">
+        <div class="col-md">
             <div class="menu-items">
                 <ul>
                     <li>
@@ -127,15 +127,15 @@ get_header();
             </div>
         </div>
 
-        <div class="col">
-            <img class="salad" src="<?php echo get_template_directory_uri(); ?>/img/salads.jpg" alt="" srcset=""  width="380" height="270">
+        <div class="col-md">
+            <img class="salad img-blur" src="<?php echo get_template_directory_uri(); ?>/img/salads.jpg" alt="" srcset=""  width="380" height="270">
         </div>
     </div>
-    <div class="row">
-        <h2>Buffet Main Course Options</h2>
+    <div class="row mobile-headers">
+        <h2 class="sub-header">Buffet Main Course Options</h2>
     </div>
     <div class="row mb-5">
-        <div class="col">
+        <div class="col-md">
             <div class="menu-items">
                 <ul>
                     <li>
@@ -201,19 +201,18 @@ get_header();
                 </ul>
             </div>
         </div>
-
-        <div class="col">
-            <img class ="buffet" src="<?php echo get_template_directory_uri(); ?>/img/Chicken.jpg" alt="" srcset=""  width="auto" height="230">
+        <div class="col-md">
+            <img class ="buffet img-blur" src="<?php echo get_template_directory_uri(); ?>/img/Chicken.jpg" alt="" srcset=""  width="auto" height="230">
         </div>
     </div>
-    <div class="row">
-        <h2>Side Dishes</h2>
+    <div class="row mobile-headers">
+        <h2 class="sub2-header">Side Dishes</h2>
     </div>
     <div class="row mb-5">
-        <div class="col">
-            <img class="asparagus" src="<?php echo get_template_directory_uri(); ?>/img/asparagus.jpg" alt="" srcset=""  width="auto" height="420">
+        <div class="col-md">
+            <img class="asparagus img-blur" src="<?php echo get_template_directory_uri(); ?>/img/asparagus.jpg" alt="" srcset=""  width="auto" height="420">
         </div>
-        <div class="col">
+        <div class="col-md">
             <div class="menu-items">
                 <ul>
                     <li>
@@ -278,27 +277,27 @@ get_header();
         </div>
     </div>
     <div class="row mb-5">
-        <div class="col">
-            <img src="<?php echo get_template_directory_uri(); ?>/img/chicken-taco.jpg" alt="" srcset=""  width="auto" height="230">
+        <div class="col-md">
+            <img class="img-blur"src="<?php echo get_template_directory_uri(); ?>/img/chicken-taco.jpg" alt="" srcset=""  width="auto" height="230">
         </div>
-        <div class="col stations">
-            <h2>Trend Stations</h2>
-                <div class="menu-items">
-                    <ul>
-                        <li>
-                            Classic Taco Bar
-                        </li>
-                        <li>
-                            Street Taco Bar
-                        </li>
-                        <li>
-                            Grits Bar
-                        </li>
-                        <li>
-                            Mac & Cheese Bar
-                        </li>
-                    </ul>
-                </div>
+        <div class="col-md stations">
+            <h2>Trend Stations:</h2>
+            <div class="menu-items">
+                <ul>
+                    <li>
+                        Classic Taco Bar
+                    </li>
+                    <li>
+                        Street Taco Bar
+                    </li>
+                    <li>
+                        Grits Bar
+                    </li>
+                    <li>
+                        Mac & Cheese Bar
+                    </li>
+                </ul>
+            </div>
         </div>
     </div>
 </div>
