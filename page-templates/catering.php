@@ -42,7 +42,7 @@ get_header();
     <div class="row mobile-headers">
         <h2 class="main-header">Hors D'oeuvres Stations</h2>
     </div>
-    <div class="row mb-5">
+    <div class="row mb-5 align-items-center">
         <div class="col-md">
             <img class="img-blur" src="<?php echo get_template_directory_uri(); ?>/img/charc.jpg" alt="" srcset=""  width="auto" height="230">
         </div>
@@ -104,7 +104,7 @@ get_header();
     <div class="row mobile-headers">
         <h2 class="sub-header">Salad Selections</h2>
     </div>
-    <div class="row mb-5">
+    <div class="row mb-5 align-items-center">
         <div class="col-md">
             <div class="menu-items">
                 <ul>
@@ -126,7 +126,6 @@ get_header();
                 </ul>
             </div>
         </div>
-
         <div class="col-md">
             <img class="salad img-blur" src="<?php echo get_template_directory_uri(); ?>/img/salads.jpg" alt="" srcset=""  width="380" height="270">
         </div>
@@ -134,7 +133,7 @@ get_header();
     <div class="row mobile-headers">
         <h2 class="sub-header">Buffet Main Course Options</h2>
     </div>
-    <div class="row mb-5">
+    <div class="row mb-5 align-items-center">
         <div class="col-md">
             <div class="menu-items">
                 <ul>
@@ -208,7 +207,7 @@ get_header();
     <div class="row mobile-headers">
         <h2 class="sub2-header">Side Dishes</h2>
     </div>
-    <div class="row mb-5">
+    <div class="row mb-5 align-items-center">
         <div class="col-md">
             <img class="asparagus img-blur" src="<?php echo get_template_directory_uri(); ?>/img/asparagus.jpg" alt="" srcset=""  width="auto" height="420">
         </div>

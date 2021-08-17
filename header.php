@@ -63,9 +63,6 @@ $container = get_theme_mod( 'understrap_container_type' );
 						<li class="nav-item">
 							<a class="nav-link" href="<?php echo esc_url( home_url( '/catering-menu/' ) ); ?>">Catering Menu</a>
 						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="<?php echo esc_url( home_url( '/babycakes-cupcakery/' ) ); ?>">Babycakes</a>
-						</li>
 					</ul>
 				</div>
 			</nav>

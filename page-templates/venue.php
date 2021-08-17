@@ -237,7 +237,7 @@ get_header();
 
         <div class="bartending mb-5">
             <h5 class="bold">Bartending:</h5>
-            <p>Kim's Cocktails - <a href="tel:+404-273-5902"><em>404-273-5902</em></a> - <a href="mailto:kimpickerel22@gmail.com"><em>Kim Pickerel</em></a></p>
+            <!-- <p>Kim's Cocktails - <a href="tel:+404-273-5902"><em>404-273-5902</em></a> - <a href="mailto:kimpickerel22@gmail.com"><em>Kim Pickerel</em></a></p> -->
         </div>
     </div>
 </div>

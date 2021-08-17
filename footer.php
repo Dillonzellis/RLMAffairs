@@ -38,18 +38,15 @@ $container = get_theme_mod( 'understrap_container_type' );
 								</a>
 							</div>
 							<div class="footer-link">
-								<a href="mailto:Resia@RLMAffairs.com">
-									Resia@RLMAffairs.com
+								<a href="mailto:Weddings@RLMAffairs.com">
+									Weddings@RLMAffairs.com
 								</a>
 							</div>
 						</div>
 
 						<div class="row justify-content-center align-items-center">
 							<div class="footer-link">
-								Hours
-							</div>
-							<div class="footer-link hours">
-								Mon 10:00-4:00
+								Hours by Appointment Only
 							</div>
 							<div class="footer-link hours">
 								Tue 10:00-4:00
@@ -62,9 +59,6 @@ $container = get_theme_mod( 'understrap_container_type' );
 							</div>
 							<div class="footer-link hours">
 								Fri 10:00-4:00
-							</div>
-							<div class="footer-link hours">
-								Sat 10:00-12:00
 							</div>
 						</div>
 
