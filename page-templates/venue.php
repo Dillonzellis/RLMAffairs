@@ -234,11 +234,6 @@ get_header();
             <a href="https://vipsoutherntours.com/" target="_blank" rel="noopener noreferrer"><p><em>VIP Southern Tours</em></a>  - <a href="tel:+706-348-8747"><em>706-348-8747</em></a></p>
             <a href="http://juliettechapel.com/wp-content/uploads/2020/02/e-Brochure-1.pdf" target="_blank" rel="noopener noreferrer"><p><em>Bradford Turner Insurance Group</em></a> - Brittany Turner - <a href="http://juliettechapel.com/wp-content/uploads/2020/02/Wedding-Rate-Chart-1.pdf" target="_blank" rel="noopener noreferrer"></a><em>Wedding Rate Chart</em></a> - <a href="http://wedding%20protector%20plan-quote%20%26%20issue/" target="_blank" rel="noopener noreferrer"><em>Wedding Quote</em></a></p>
         </div>
-
-        <div class="bartending mb-5">
-            <h5 class="bold">Bartending:</h5>
-            <!-- <p>Kim's Cocktails - <a href="tel:+404-273-5902"><em>404-273-5902</em></a> - <a href="mailto:kimpickerel22@gmail.com"><em>Kim Pickerel</em></a></p> -->
-        </div>
     </div>
 </div>
 
