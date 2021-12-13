@@ -52,7 +52,7 @@ get_header();
     </div>
     <div class="row">
         <div class="col package-header">
-            Sapphire Wedding Package: $3300.00 
+            Sapphire Wedding Package: $3800.00 
         </div>
     </div>
 
@@ -67,9 +67,10 @@ get_header();
         <li>Tea and Water beverages</li>
         <li>Disposable Flatware Glasses and Paper Napkins</li>
         <li>2 tier Cake with Cake stand, Staff will cut & serve cake Vanilla or Chocolate, Rough, Smooth or Naked iced</li>
+        <li>Tasting $75.00</li>
         <li>Staff for event 4 hours</li>
         <li>Rehearsal Day of Event</li>
-        <li><em>Monday- Thursday: $2900.00</em></li>
+        <li><em>Monday- Thursday: $3300.00</em></li>
     </ul>
 
     <div class="row">
@@ -82,15 +83,15 @@ get_header();
         <li>70 Guests</li>
         <li>8 hour Venue Rental Included</li>
         <li>Reception Décor: Centerpieces flowers for food display & reception</li>
-        <li>Ceremony Décor: Organza draping with optional florals & Aisle décor</li>
+        <li>Ceremony Décor: Organza draping with optional greens</li>
         <li>Bride bouquet & 3 bridesmaids and flower girl petals Groom & 3 groomsmen boutonnières</li>
         <li>Cocktail hour 2 Hors d’Oeuvres</li>
         <li>1 entrée buffet, salad, rolls, 2 side dishes</li>
-        <li>Tea and water beverages With display Decanters</li>
-        <li>Silver flatware glasses and plates with signature paper napkins  </li>
+        <li>Tea and water beverages with display Decanters</li>
+        <li>Silver flatware glasses and plates with signature paper napkins</li>
         <li>2 tier cake with Cake stand Staff will cut & serve cake Vanilla or Chocolate, Rough, Smooth or Naked iced</li>
         <li>Staff for event 4 hours</li>
-        <li>Wedding Ceremony Coordination/Dinner service/ Cake Cutting</li>
+        <li>Day of Coordinator: Wedding Ceremony Coordination/Dinner service/Cake Cutting</li>
         <li>Rehearsal Day of Event</li>
         <li><em>Monday- Thursday: $4000.00</em></li>
     </ul>
@@ -109,11 +110,11 @@ get_header();
         <li>Bride bouquet & 3 bridesmaids and flower girl petals Groom & 3 groomsmen boutonnières </li>
         <li>Catering: Cocktail hour 3 Hors d’Oeuvres 2 entrée buffet, signature salad, diner rolls, 2 side dishes </li>
         <li>Beverages Displayed in Elegant Decanters: Tea and water beverages </li>
-        <li>Silver or Gold flatware, Goblets and Dinner Plates with Linen Napkins White or cream linens for seating tables </li>
+        <li>Silver or Gold flatware, Goblets and Dinner Plates</li>
         <li>3 tier cake with Cake stand, staff will cut & serve cake Vanilla or Chocolate, Rough, Smooth or Naked iced</li>
         <li>Photo Booth Wall</li>
         <li>Staff for event 6 hours</li>
-        <li>Day of Coordinator Wedding Ceremony Coordination/Dinner service/ Cake Cutting</li>
+        <li>Day of Coordinator: Wedding Ceremony Coordination/Dinner service/ Cake Cutting</li>
         <li>Rehearsal with coordinator </li>
         <li>Clean up</li>
         <li><em>Monday- Thursday: $5900.00</em></li>
@@ -137,12 +138,35 @@ get_header();
         <li>Silver or Gold flatware, Goblets and Dinner Plates with Linen Napkins. White or cream linens for seating tables </li>
         <li>3 tier cake with Cake stand, staff will cut & serve cake Vanilla or Chocolate, Rough, Smooth or Naked iced</li>
         <li>Photo Booth Wall</li>
+        <li>Full wedding Coordination service</li>
         <li>Staff for event 6 hours</li>
-        <li>Day of Coordinator Wedding Ceremony Coordination/Dinner service/ Cake Cutting</li>
+        <li>Day of Coordinator Wedding Ceremony Coordination/Dances /Dinner service /Toasts Cake Cutting/ Send off</li>
         <li>Rehearsal with coordinator </li>
         <li>Full set up & Clean up</li>
         <li><em>Monday- Thursday: $7900.00</em></li>
     </ul>
+
+    <div class="row">
+        <div class="col package-header">
+            Micro Wedding Package: $2400.00 Thursday,Friday& Sunday
+        </div>
+    </div>
+
+    <ul>
+        <li>25 Guests:</li>
+        <li>4 hour Venue Rental included</li>
+        <li>Reception Décor: Centerpieces flowers for food display & reception</li>
+        <li>Ceremony Décor: organza draping</li>
+        <li>Bride bouquet & Groom boutonnière</li>
+        <li>Set Up & display of couples personal items</li>
+        <li>One entrée buffet with 2 side dishes and bread Or Heavy Hors d’Oeuvres with 3 choices</li>
+        <li>Tea and Water beverages</li>
+        <li>Disposable Flatware Glasses and Paper Napkins</li>
+        <li>2 tier Cake with stand, Staff will cut & serve cake Vanilla or Chocolate, Rough, Smooth or Naked iced</li>
+        <li>Staff for event 2 hours</li>
+    </ul>
+
+
 
     <div class="row">
         <div class="col package-header">
@@ -151,7 +175,7 @@ get_header();
     </div>
 
     <ul>
-        <li>70 Guests</li>
+        <li>65 Guests</li>
         <li>Venue Rental Included 4 hours</li>
         <li>Reception tables & chairs</li>
         <li>1 Entree 2 sides dinner roll & salad</li>
@@ -172,11 +196,11 @@ get_header();
         <p class="underline">Sparkler Buckets $4.00 each</p>
         <p class="underline">Bar Glassware $16 a rack</p>
         <p class="underline">Extra Decanters $8.00 each</p>
-        <p class="underline">Tasting $75.00</p>
+        <p class="underline">Tasting $125.00</p>
         
         <p>Fridays, Saturdays & Sundays - $1800.00 10 hours
         Monday-Thursday - $1,200 6 hours /Hourly rental 250.00 an hour
-        A $500 deposit is required to hold a date. This deposit is not refundable.</p>
+        A $500 deposit is required to hold a date. This deposit is not refundable. The balance is due 40 days prior to your event</p>
     </div>
  
     <div class="venue-features mb-5">
@@ -187,6 +211,7 @@ get_header();
             <li>Built in Food Service Bar</li>
             <li>Built in Bar</li>
             <li>Full kitchen</li>
+            <li>DJ Station Built In</li>
             <li>Outdoor patio space with outdoor seating areas, fairy & Café lights</li>
             <li>Audio system throughout & Microphone</li>
             <li>Dance Floor</li>
