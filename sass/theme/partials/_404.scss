@@ -1,0 +1,16 @@
+.error404 {
+	.header-logo {
+		height: 100px;
+	}
+	#wrapper-footer {
+		margin-top: auto;
+	}
+}
+
+.error404 {
+	@media (min-width: 991px) {
+		.header-logo {
+			height: 320px;
+		}
+	}
+}

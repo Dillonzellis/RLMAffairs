@@ -35,9 +35,9 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 							<p><?php esc_html_e( 'It looks like nothing was found at this location. Maybe try one of the links below or a search?', 'understrap' ); ?></p>
 
-							<?php get_search_form(); ?>
+							<!-- <?php get_search_form(); ?> -->
 
-							<?php the_widget( 'WP_Widget_Recent_Posts' ); ?>
+							<!-- <?php the_widget( 'WP_Widget_Recent_Posts' ); ?>
 
 							<?php if ( understrap_categorized_blog() ) : // Only show the widget if site has multiple categories. ?>
 
@@ -61,16 +61,16 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 								</div><!-- .widget -->
 
-							<?php endif; ?>
+							<?php endif; ?> -->
 
 							<?php
 
 							/* translators: %1$s: smiley */
-							$archive_content = '<p>' . sprintf( esc_html__( 'Try looking in the monthly archives. %1$s', 'understrap' ), convert_smilies( ':)' ) ) . '</p>';
-							the_widget( 'WP_Widget_Archives', 'dropdown=1', "after_title=</h2>$archive_content" );
+							// $archive_content = '<p>' . sprintf( esc_html__( 'Try looking in the monthly archives. %1$s', 'understrap' ), convert_smilies( ':)' ) ) . '</p>';
+							// the_widget( 'WP_Widget_Archives', 'dropdown=1', "after_title=</h2>$archive_content" );
 
-							the_widget( 'WP_Widget_Tag_Cloud' );
-							?>
+							// the_widget( 'WP_Widget_Tag_Cloud' );
+							// ?>
 
 						</div><!-- .page-content -->
 

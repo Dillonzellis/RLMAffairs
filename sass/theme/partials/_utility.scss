@@ -1,9 +1,14 @@
+html {
+	height: 100%;
+	overflow-x: hidden;
+}
+
 body {
 	color: $primary;
 	font-family: $primary-font;
 	font-size: 18px;
+	min-height: 100%;
 }
-
 
 .btn {
 	font-family: "PT Sans Narrow", sans-serif;
