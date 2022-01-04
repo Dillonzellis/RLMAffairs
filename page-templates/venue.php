@@ -143,12 +143,12 @@ get_header();
         <li>Day of Coordinator Wedding Ceremony Coordination/Dances /Dinner service /Toasts Cake Cutting/ Send off</li>
         <li>Rehearsal with coordinator </li>
         <li>Full set up & Clean up</li>
-        <li><em>Monday- Thursday: $7900.00</em></li>
+        <li><em>Monday - Thursday: $7900.00</em></li>
     </ul>
 
     <div class="row">
         <div class="col package-header">
-            Micro Wedding Package: $2400.00 Thursday,Friday& Sunday
+            Micro Wedding Package: $2400.00 Monday - Thursday
         </div>
     </div>
 
@@ -223,10 +223,10 @@ get_header();
         <h4 class="bold">Preferred Vendors:</h4>
         <div class="photography mb-5">
             <h5 class="bold">Photography:</h5>
-            <p>Rita Wedding Studio https://ritaweddingstudio</p>
+            <a href="https://www.ritaweddingstudio.com/" target="_blank" rel="noopener noreferrer"><p>Rita Wedding Studio</p></a>
             <a href="https://sixheartsphotography.com/" target="_blank" rel="noopener noreferrer"><p><em>Far Out Galaxy</em></a> - Photography - <a href="tel:+770-876-9248"><em>770-876-9248</em></a></p>
             <a href="https://squidwed.com/" target="_blank" rel="noopener noreferrer"><p><em>Far Out Galaxy</em></a> - Cinematography - <a href="tel:+770-876-9248"><em>770-876-9248</em></a></p>
-            <p>Cheri Michelle Photography</p>
+            <a href="https://cherimichellephotography.com/" target="_blank" rel="noopener noreferrer"><p>Cheri Michelle Photography</p></a>
         </div>
 
         <div class="dj-services mb-5">
