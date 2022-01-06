@@ -75,7 +75,7 @@ get_header();
 
     <div class="row">
         <div class="col package-header">
-            Emerald Wedding Package: $4500.00
+            Emerald Wedding Package: $4800.00
         </div>
     </div>
 
@@ -93,7 +93,7 @@ get_header();
         <li>Staff for event 4 hours</li>
         <li>Day of Coordinator: Wedding Ceremony Coordination/Dinner service/Cake Cutting</li>
         <li>Rehearsal Day of Event</li>
-        <li><em>Monday- Thursday: $4000.00</em></li>
+        <li><em>Monday- Thursday: $4300.00</em></li>
     </ul>
 
     <div class="row">
