@@ -92,9 +92,6 @@ get_header();
                         Mini Quiches - variety of fillings
                     </li>
                     <li>
-                        Fig & Proscuitto Flatbread
-                    </li>
-                    <li>
                         The Exquisite Charcuterie Experience(counts as 2 appetizers)
                     </li>
                 </ul>
@@ -168,9 +165,6 @@ get_header();
                         BBQ Boneless Chicken Breast
                     </li>
                     <li>
-                        erb Roast Turkey breast with gravy
-                    </li>
-                    <li>
                         Roasted vegetable Lasagna with four Italian cheeses and fresh herbs in a zesty marinara
                     </li>
                     <li>
@@ -189,7 +183,7 @@ get_header();
                         Classic Southern Jumbo Shrimp & Grits
                     </li>
                     <li>
-                        New Orleans Seafood Jambalaya with shrimp, chicken, Andouille, and Tasso ham
+                        New Orleans Seafood Gumbo with shrimp, chicken, Andouille, and Tasso ham
                     </li>
                     <li>
                         Tortellini with pesto, shrimp or chicken with spinach and asiago cheese in a champagne cream sauce

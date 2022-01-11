@@ -67,7 +67,6 @@ get_header();
         <li>Tea and Water beverages</li>
         <li>Disposable Flatware Glasses and Paper Napkins</li>
         <li>2 tier Cake with Cake stand, Staff will cut & serve cake Vanilla or Chocolate, Rough, Smooth or Naked iced</li>
-        <li>Tasting $75.00</li>
         <li>Staff for event 4 hours</li>
         <li>Rehearsal Day of Event</li>
         <li><em>Monday- Thursday: $3300.00</em></li>
@@ -182,7 +181,6 @@ get_header();
         <li>Set Up & clean up</li>
         <li>Beverages Displayed in Decanters: Tea and water beverages </li>
         <li>Disposable service with signature paper napkins</li>
-        <li>White or cream linens for seating tables</li>
         <li>Clean up dining area and kitchen</li>
         <li>2 tier cake with Cake stand Vanilla or Chocolate, Rough, Smooth or Naked iced</li>
         <li>Staff for event 4 hours</li>
