@@ -20,11 +20,14 @@ get_header();
             </button></a>
         </div>
     </div>
-
-    <div class="row justify-content-center mb-5">
-        <img src="<?php echo get_template_directory_uri(); ?>/img/lanterns.jpg" alt="" srcset="">
+</div>
+<div class="container-fluid">
+    <div class="row lantern mb-5">
+        <img src="<?php echo get_template_directory_uri(); ?>/img/lanterns-1.jpg" alt="" srcset="">
     </div>
 </div>
+
+
 
 <hr class="mb-5">
 
