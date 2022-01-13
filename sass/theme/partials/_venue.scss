@@ -1,23 +1,62 @@
 // venue
 .page-template-venue {
 	h1 {
-		font-weight: bold;
+		// font-weight: bold;
 		text-align: center;
 		margin-bottom: 2rem;
 		margin-top: 2rem;
 		font-size: 1.5rem;
 		@media (min-width: 600px) {
-			font-size: 2.25rem;
+			font-size: 1.75rem;
 		}
 		@media (min-width: 1200px) {
-			font-size: 3rem;
+			font-size: 2rem;
 		}
 	}
+
+	// p {
+	// 	font-size: 1.5rem;
+	// }
 
 	.lantern {
 		img {
 			min-width: 100% !important;
 			max-height: 500px !important;
+		}
+	}
+
+	.package-header-container {
+		position: relative;
+		background-image: url("../img/venue-bg-package.jpg");
+		background-size: cover;
+		min-height: 100vh;
+		background-position: center 60%;
+		// background-position-y: 50%;
+		background-repeat: no-repeat;
+		img {
+			min-width: 100%;
+		}
+		.package-heading-wrapper {
+			h2 {
+				position: absolute;
+				font-size: 1.5rem;
+				left: 50%;
+				top: 50%;
+				transform: translate(-50%, -50%);
+				width: 100%;
+				text-align: center;
+				color: #000;
+				padding: 2.25rem;
+				background-color: #fff;
+				border-radius: 6px;
+				@media (min-width: 600px) {
+					font-size: 1.5rem;
+					width: 60%;
+				}
+				@media (min-width: 1200px) {
+					font-size: 2.5rem;
+				}
+			}
 		}
 	}
 
@@ -47,9 +86,81 @@
 		font-weight: bold;
 		font-style: italic;
 		text-decoration: underline;
+		// font-size: 2rem;
+	}
+	li {
+		// font-size: 1.3rem;
+	}
+	h5 {
+		// font-size: 2rem;
+	}
+
+	.venue-feats-container {
+		min-width: 100%;
+		margin-top: 3.5rem;
+		margin-bottom: 3.5rem;
+		.venue-feats-header {
+			text-align: center;
+			font-size: 3rem;
+		}
+		.carousel-wrapper {
+			display: flex;
+			display: none;
+			flex-direction: row;
+			min-height: 600px;
+			.slide-1 {
+				background-image: url("../img/donut-wall.jpg");
+				background-size: cover;
+				min-width: 50%;
+			}
+			.slide-2 {
+				background-image: url("../img/c-wall.jpg");
+				min-width: 50%;
+				background-size: cover;
+			}
+			.slide-text {
+				font-size: 3.5rem;
+				font-weight: bold;
+				color: #fff;
+				margin-left: 5.5rem;
+				height: 100%;
+				display: flex;
+				align-items: center;
+				width: 50%;
+				text-align: center;
+			}
+		}
+		.feats-sub-header {
+			margin-top: 1rem;
+			text-align: center;
+			font-size: 2rem;
+		}
+		.sub-feats {
+			text-align: center;
+			line-height: unset;
+			margin: 0;
+			padding: 0;
+			// width: 30%;
+		}
+		hr {
+			border-top: 2px solid rgba(8, 18, 8, 0.6);
+			width: 10%;
+		}
+	}
+
+	.vendors {
+		h5 {
+			// font-size: 1.5rem;
+		}
+		p {
+			// font-size: 1.3rem;
+			margin-bottom: 0;
+		}
 	}
 
 	.entry-title {
 		display: none;
 	}
 }
+
+//carousel

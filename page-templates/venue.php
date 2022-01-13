@@ -47,12 +47,22 @@ get_header();
 
 <hr class="mb-5">
 
+
+<div class="package-header-container mb-5">
+    <div class="package-heading-wrapper">
+        <h2>ESTATE ROOM & GARDEN PACKAGES</h2>
+    </div>
+</div>
+
+
+
+
 <div class="container">
-    <div class="row">
+    <!-- <div class="row">
         <div class="col">
             <h2>Estate Room & Gardens Packages:</h2>
         </div>
-    </div>
+    </div> -->
     <div class="row">
         <div class="col package-header">
             Sapphire Wedding Package: $3800.00 
@@ -189,76 +199,99 @@ get_header();
         <li>Staff for event 4 hours</li>
     </ul>
 
-    <div class="rentals mt-5 mb-5">
-        <h4 class="bold underline">Rental Fees:</h4>
-        <p class="underline">Photo Booth Wall $300.00</p>
-        <p class="underline">Corn Hole, Giant Jenga $10.00 each per event</p>
-        <p class="underline">Champagne Wall $1.50 a glass</p>
-        <p class="underline">Sparkler Buckets $4.00 each</p>
-        <p class="underline">Bar Glassware $16 a rack</p>
-        <p class="underline">Extra Decanters $8.00 each</p>
-        <p class="underline">Tasting $125.00</p>
-        
-        <p>Fridays, Saturdays & Sundays - $1800.00 10 hours
-        Monday-Thursday - $1,200 6 hours /Hourly rental 250.00 an hour
-        A $500 deposit is required to hold a date. This deposit is not refundable. The balance is due 40 days prior to your event</p>
+    <div class="venue-only-wrapper mb-5">
+        <h4 class="package-header">Venue Only</h4>
+        <li>Fridays, Saturdays & Sundays - $1800.00 10 hours</li>
+        <li>Monday-Thursday - $1,200 6 hours</li>     
+        <li>Hourly rental 250.00/hour</li>
+        <li>A $500 deposit is required to hold a date.</li>
+        <li>This deposit is not refundable. The balance is due 40 days prior to your event.</li> 
     </div>
- 
-    <div class="venue-features mb-5">
-        <h4 class="bold underline">Venue Features:</h4>
-        <ul>
-            <li>Outdoor Pew seating / Reception seating</li>
-            <li>Private Lounge & Dressing rooms with private bath and separate entrance</li>
-            <li>Built in Food Service Bar</li>
-            <li>Built in Bar</li>
-            <li>Full kitchen</li>
-            <li>DJ Station Built In</li>
-            <li>Outdoor patio space with outdoor seating areas, fairy & Café lights</li>
-            <li>Audio system throughout & Microphone</li>
-            <li>Dance Floor</li>
-            <li>Vintage Estate wood Tables & folding chairs</li>
-        </ul>
+</div>
+
+    <div class="venue-feats-container">
+        <h3 class="venue-feats-header">Venue Features</h3>
+        <div class="carousel-wrapper">
+            <div class="slide-1">
+                <div class="slide-text">
+                    DONUT WALL
+                </div>
+            </div>
+            <div class="slide-2">
+                <div class="slide-text">
+                    CHAMPAGNE WALL
+                </div>
+            </div>
+        </div>
+        <hr>
+        <div class="feats-sub-header">
+            Additional Features:
+        </div>
+        <div class="sub-feats">Full Kitchen</div>
+        <div class="sub-feats">Audio System throughout & Microphone</div>
+        <hr>
     </div>
 
-    <div class="vendors">
-        <h4 class="bold">Preferred Vendors:</h4>
-        <div class="photography mb-5">
-            <h5 class="bold">Photography:</h5>
+<div class="container">
+
+
+    <div class="row">
+        <h4 class="col package-header">
+            Rental Fees:
+        </h4>
+    </div>
+        <ul>
+            <li>Photo Booth Wall $300.00</li>
+            <li>Corn Hole, Giant Jenga $10.00 each per event</li>
+            <li>Champagne Wall $1.50 a glass</li>
+            <li>Sparkler Buckets $4.00 each</li>
+            <li>Bar Glassware $16 a rack</li>
+            <li>Extra Decanters $8.00 each</li>
+            <li>Tasting $125.00</li>
+        </ul>
+    
+        
+
+
+    <div class="vendors mt-5">
+        <div class="">Preferred Vendors:</div>
+        <div class="photography mb-3">
+            <div class="">Photography:</div>
             <a href="https://www.ritaweddingstudio.com/" target="_blank" rel="noopener noreferrer"><p>Rita Wedding Studio</p></a>
-            <a href="https://sixheartsphotography.com/" target="_blank" rel="noopener noreferrer"><p><em>Far Out Galaxy</em></a> - Photography - <a href="tel:+770-876-9248"><em>770-876-9248</em></a></p>
-            <a href="https://squidwed.com/" target="_blank" rel="noopener noreferrer"><p><em>Far Out Galaxy</em></a> - Cinematography - <a href="tel:+770-876-9248"><em>770-876-9248</em></a></p>
+            <a href="https://sixheartsphotography.com/" target="_blank" rel="noopener noreferrer"><p>Far Out Galaxy</a> - Photography - <a href="tel:+770-876-9248">770-876-9248</a></p>
+            <a href="https://squidwed.com/" target="_blank" rel="noopener noreferrer"><p>Far Out Galaxy</a> - Cinematography - <a href="tel:+770-876-9248">770-876-9248</a></p>
             <a href="https://cherimichellephotography.com/" target="_blank" rel="noopener noreferrer"><p>Cheri Michelle Photography</p></a>
         </div>
 
-        <div class="dj-services mb-5">
-            <h5 class="bold">DJ Services:</h5>
-            <a href="https://djcuttlefish.com/about-us/" target="_blank" rel="noopener noreferrer"><p><em>Far Out Galaxy</em></a> - (DJ) - <a href="tel:+770-876-9248"><em>770-876-9248</em></a></p>
+        <div class="dj-services mb-3">
+            <div class="">DJ Services:</div>
+            <a href="https://djcuttlefish.com/about-us/" target="_blank" rel="noopener noreferrer"><p>Far Out Galaxy</a> - (DJ) - <a href="tel:+770-876-9248">770-876-9248</a></p>
         </div>
 
-        <div class="officiant mb-5">
-            <h5 class="bold">Officiant:</h5>
-            <a href="https://www.weddingofficiantga.com/" target="_blank" rel="noopener noreferrer"><p><em>Rev. Heinz Kloeter</em></a> - <a href="tel:+678-983-7976"><em>678-983-7976</em></a></p>
-            <a href="http://www.alternativeweddingsbyrevroberts.com/" target="_blank" rel="noopener noreferrer"><p><em>Alternative Weddings</em></a>  - Rev. Dr. Barbara Roberts - <a href="tel:+706-265-7794"><em>706-265-7794</em></a></p>
-            <a href="https://www.weddingwire.com/biz/reverend-gale-m-york-alpharetta/9d305b6b2c47239e.html" target="_blank" rel="noopener noreferrer"><p><em>Rev. Gale York</em></a> - <a href="tel:+678-890-4881"><em>678-890-4881</em></a></p>
+        <div class="officiant mb-3">
+            <div class="">Officiant:</div>
+            <a href="https://www.weddingofficiantga.com/" target="_blank" rel="noopener noreferrer"><p>Rev. Heinz Kloeter</a> - <a href="tel:+678-983-7976">678-983-7976</a></p>
+            <a href="http://www.alternativeweddingsbyrevroberts.com/" target="_blank" rel="noopener noreferrer"><p>Alternative Weddings</a>  - Rev. Dr. Barbara Roberts - <a href="tel:+706-265-7794">706-265-7794</a></p>
+            <a href="https://www.weddingwire.com/biz/reverend-gale-m-york-alpharetta/9d305b6b2c47239e.html" target="_blank" rel="noopener noreferrer"><p>Rev. Gale York</a> - <a href="tel:+678-890-4881">678-890-4881</a></p>
             <p>Davis Palmour - <a href="tel:+706-455-8421">706-455-8421</a></p>
-            <p><a href="https://ceremoniesbyrick.com/" target="_blank" rel="noopener noreferrer"><em>Ceremonies By Rick</em></a> - Rick Durham - <a href="tel:+706-654-6268"><em>706-654-6268</em></a></p>
-            <a href="mailto:tjmaraia@gmail.com"><p><em>Tyler Maraia</em></a> - <a href="tel:+206-245-5986"><em>206-245-5986</em></a></p>
+            <p><a href="https://ceremoniesbyrick.com/" target="_blank" rel="noopener noreferrer">Ceremonies By Rick</a> - Rick Durham - <a href="tel:+706-654-6268">706-654-6268</a></p>
+            <a href="mailto:tjmaraia@gmail.com"><p>Tyler Maraia</a> - <a href="tel:+206-245-5986">206-245-5986</a></p>
             <p>Sensational Ceremonies - Dr. Gregg Potts - <a href="tel:+678-205-7267">678-205-7267</a></p>
-            <a href="mailto:godsgatheringchurch@gmail.com"><p><em>Sue Palmer (minister)</em></a> - <a href="tel:+470-232-1170"><em>470-232-1170</em></a></p>
-            <p>Rocky Thompason - <a href="tel:+770-490-1274"><em>770-490-1274</em></a></p>
+            <a href="mailto:godsgatheringchurch@gmail.com"><p>Sue Palmer (minister)</a> - <a href="tel:+470-232-1170">470-232-1170</a></p>
+            <p>Rocky Thompason - <a href="tel:+770-490-1274">770-490-1274</a></p>
         </div>
 
-        <div class="hair-makeup mb-5">
-            <h5 class="bold">Hair & Make Up</h5>
-            <a href="https://blissformalhair.com/" target="_blank" rel="noopener noreferrer"><p><em>Bliss Formal Hair</em></a> - Candice Miklius</p>
-            <a href="https://www.mindseyeinkandhair.com/" target="_blank" rel="noopener noreferrer"><p><em>Mind's Eye Salon</em></a> - <a href="tel:+678-828-7747"><em>678-828-7747</em></a></p>
+        <div class="hair-makeup mb-3">
+            <div class="">Hair & Make Up</div>
+            <a href="https://blissformalhair.com/" target="_blank" rel="noopener noreferrer"><p>Bliss Formal Hair</a> - Candice Miklius</p>
+            <a href="https://www.mindseyeinkandhair.com/" target="_blank" rel="noopener noreferrer"><p>Mind's Eye Salon</a> - <a href="tel:+678-828-7747">678-828-7747</a></p>
         </div>
 
-        <div class="event-travel mb-5">
-            <h5 class="bold">Event Travel & Insurance</h5>
-            <p>Vacations by Sally - Sally Pavao - <a href="tel:+706-360-1346"><em>706-360-1346</em></a></p>
-            <a href="https://vipsoutherntours.com/" target="_blank" rel="noopener noreferrer"><p><em>VIP Southern Tours</em></a>  - <a href="tel:+706-348-8747"><em>706-348-8747</em></a></p>
-            <a href="http://juliettechapel.com/wp-content/uploads/2020/02/e-Brochure-1.pdf" target="_blank" rel="noopener noreferrer"><p><em>Bradford Turner Insurance Group</em></a> - Brittany Turner - <a href="http://juliettechapel.com/wp-content/uploads/2020/02/Wedding-Rate-Chart-1.pdf" target="_blank" rel="noopener noreferrer"></a><em>Wedding Rate Chart</em></a> - <a href="http://wedding%20protector%20plan-quote%20%26%20issue/" target="_blank" rel="noopener noreferrer"><em>Wedding Quote</em></a></p>
+        <div class="event-travel mb-3">
+            <div class="">Event Travel & Insurance</div>
+            <p>Vacations by Sally - Sally Pavao - <a href="tel:+706-360-1346">706-360-1346</a></p>
+            <a href="https://vipsoutherntours.com/" target="_blank" rel="noopener noreferrer"><p>VIP Southern Tours</a>  - <a href="tel:+706-348-8747">706-348-8747</a></p>
+            <a href="http://juliettechapel.com/wp-content/uploads/2020/02/e-Brochure-1.pdf" target="_blank" rel="noopener noreferrer"><p>Bradford Turner Insurance Group</a> - Brittany Turner - <a href="http://juliettechapel.com/wp-content/uploads/2020/02/Wedding-Rate-Chart-1.pdf" target="_blank" rel="noopener noreferrer"></a>Wedding Rate Chart</a> - <a href="http://wedding%20protector%20plan-quote%20%26%20issue/" target="_blank" rel="noopener noreferrer">Wedding Quote</a></p>
         </div>
     </div>
 </div>
