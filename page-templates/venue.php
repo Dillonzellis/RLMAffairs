@@ -209,7 +209,7 @@ get_header();
     </div>
 </div>
 
-    <div class="venue-feats-container">
+    <!-- <div class="venue-feats-container">
         <h3 class="venue-feats-header">Venue Features</h3>
         <div class="carousel-wrapper">
             <div class="slide-1">
@@ -230,7 +230,43 @@ get_header();
         <div class="sub-feats">Full Kitchen</div>
         <div class="sub-feats">Audio System throughout & Microphone</div>
         <hr>
-    </div>
+    </div> -->
+    <section class="venue-feats-container">
+        <h3 class="venue-feats-header">Venue Features</h3>
+        <div class="carousel" data-carousel>
+        <button class="carousel-button prev" data-carousel-button="prev">&#8656;</button>
+        <button class="carousel-button next" data-carousel-button="next">&#8658;</button>
+            <ul data-slides>
+                <li class="slide" data-active>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/slide1.jpg" alt="">
+                </li>
+                <li class="slide">
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/slide2.jpg" alt="">
+                </li>
+                <li class="slide">
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/slide3.jpg" alt="">
+                </li>
+                <li class="slide">
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/slide4.jpg" alt="">
+                </li>
+                <li class="slide">
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/slide5.jpg" alt="">
+                </li>
+                <li class="slide">
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/slide6.jpg" alt="">
+                </li>
+    
+            </ul>
+        </div>
+        <hr>
+        <div class="feats-sub-header">
+            Additional Features:
+        </div>
+        <div class="sub-feats">Full Kitchen</div>
+        <div class="sub-feats">Audio System throughout & Microphone</div>
+        <hr>
+    </section>
+
 
 <div class="container">
 
