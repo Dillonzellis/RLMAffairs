@@ -23,7 +23,7 @@ get_header();
 </div>
 <div class="container-fluid">
     <div class="row lantern mb-5">
-        <img src="<?php echo get_template_directory_uri(); ?>/img/lanterns-1.jpg" alt="" srcset="">
+        <img src="<?php echo get_template_directory_uri(); ?>/img/lanterns-1.jpg" alt="" loading="lazy" srcset="">
     </div>
 </div>
 
@@ -34,7 +34,7 @@ get_header();
 <div class="container">
     <div class="row align-items-center mb-5">
         <div class="col-md-2 flex-center">
-            <img class="logo"src="<?php echo get_template_directory_uri(); ?>/img/venue-rlm-logo.jpg" alt="" srcset="">
+            <img class="logo"src="<?php echo get_template_directory_uri(); ?>/img/venue-rlm-logo.jpg" alt="" srcset="" loading="lazy">
         </div>
         
         <div class="col-md-10 flex-center">
@@ -238,22 +238,22 @@ get_header();
             <button class="carousel-button next" data-carousel-button="next">&#8658;</button>
                 <ul data-slides>
                     <li class="slide" data-active>
-                        <img src="<?php echo get_template_directory_uri(); ?>/img/slide1.jpg" alt="">
+                        <img src="<?php echo get_template_directory_uri(); ?>/img/slide1.jpg" alt="" loading="lazy">
                     </li>
                     <li class="slide">
-                        <img src="<?php echo get_template_directory_uri(); ?>/img/slide2.jpg" alt="">
+                        <img src="<?php echo get_template_directory_uri(); ?>/img/slide2.jpg" alt="" loading="lazy">
                     </li>
                     <li class="slide">
-                        <img src="<?php echo get_template_directory_uri(); ?>/img/slide3.jpg" alt="">
+                        <img src="<?php echo get_template_directory_uri(); ?>/img/slide3.jpg" alt="" loading="lazy">
                     </li>
                     <li class="slide">
-                        <img src="<?php echo get_template_directory_uri(); ?>/img/slide4.jpg" alt="">
+                        <img src="<?php echo get_template_directory_uri(); ?>/img/slide4.jpg" alt="" loading="lazy">
                     </li>
                     <li class="slide">
-                        <img src="<?php echo get_template_directory_uri(); ?>/img/slide5.jpg" alt="">
+                        <img src="<?php echo get_template_directory_uri(); ?>/img/slide5.jpg" alt="" loading="lazy">
                     </li>
                     <li class="slide">
-                        <img src="<?php echo get_template_directory_uri(); ?>/img/slide6.jpg" alt="">
+                        <img src="<?php echo get_template_directory_uri(); ?>/img/slide6.jpg" alt="" loading="lazy">
                     </li>
         
                 </ul>
@@ -264,51 +264,51 @@ get_header();
                 <ul data-slides>
                     <li class="slide" data-active>
                         <div class="slide-text">DONUT WALL</div>
-                        <img src="<?php echo get_template_directory_uri(); ?>/img/mini-donut-slide.jpg" alt="">
+                        <img src="<?php echo get_template_directory_uri(); ?>/img/mini-donut-slide.jpg" alt="" loading="lazy">
                     </li>
                     <li class="slide">
                         <div class="slide-text">CHAMPAGNE WALL</div>
-                        <img src="<?php echo get_template_directory_uri(); ?>/img/mini-champ-slide.jpg" alt="">
+                        <img src="<?php echo get_template_directory_uri(); ?>/img/mini-champ-slide.jpg" alt="" loading="lazy">
                     </li>
                     <li class="slide">
                         <div class="slide-text">FOOD SERVICE BAR</div>
-                        <img src="<?php echo get_template_directory_uri(); ?>/img/mini-food-slide.jpg" alt="">
+                        <img src="<?php echo get_template_directory_uri(); ?>/img/mini-food-slide.jpg" alt="" loading="lazy">
                     </li>
                     <li class="slide">
                         <div class="slide-text">BUILT IN BAR</div>
-                        <img src="<?php echo get_template_directory_uri(); ?>/img/mini-bar-slide.jpg" alt="">
+                        <img src="<?php echo get_template_directory_uri(); ?>/img/mini-bar-slide.jpg" alt="" loading="lazy">
                     </li>
                     <li class="slide">
                         <div class="slide-text">OUTDOOR PEW SEATING</div>
-                        <img src="<?php echo get_template_directory_uri(); ?>/img/mini-pew-slide.jpg" alt="">
+                        <img src="<?php echo get_template_directory_uri(); ?>/img/mini-pew-slide.jpg" alt="" loading="lazy">
                     </li>
                     <li class="slide">
                         <div class="slide-text">DJ STATION</div>
-                        <img src="<?php echo get_template_directory_uri(); ?>/img/mini-dj-station.jpg" alt="">
+                        <img src="<?php echo get_template_directory_uri(); ?>/img/mini-dj-station.jpg" alt="" loading="lazy">
                     </li>
                     <li class="slide">
                         <div class="slide-text">VINTAGE WOOD TABLES & CHAIRS</div>
-                        <img src="<?php echo get_template_directory_uri(); ?>/img/mini-tables-slide.jpg" alt="">
+                        <img src="<?php echo get_template_directory_uri(); ?>/img/mini-tables-slide.jpg" alt="" loading="lazy">
                     </li>
                     <li class="slide">
                         <div class="slide-text">DANCE FLOOR</div>
-                        <img src="<?php echo get_template_directory_uri(); ?>/img/mini-dance-slide.jpg" alt="">
+                        <img src="<?php echo get_template_directory_uri(); ?>/img/mini-dance-slide.jpg" alt="" loading="lazy">
                     </li>
                     <li class="slide">
                         <div class="slide-text">PRIVATE DRESSING ROOMS</div>
-                        <img src="<?php echo get_template_directory_uri(); ?>/img/mini-suite-1.jpg" alt="">
+                        <img src="<?php echo get_template_directory_uri(); ?>/img/mini-suite-1.jpg" alt="" loading="lazy">
                     </li>
                     <li class="slide">
                         <div class="slide-text">DRESSING SUITE SEPARATE BATH</div>
-                        <img src="<?php echo get_template_directory_uri(); ?>/img/mini-suite-2.jpg" alt="">
+                        <img src="<?php echo get_template_directory_uri(); ?>/img/mini-suite-2.jpg" alt="" loading="lazy">
                     </li>
                     <li class="slide">
                         <div class="slide-text">OUTDOOR PATIO SPACE</div>
-                        <img src="<?php echo get_template_directory_uri(); ?>/img/mini-patio-slide.jpg" alt="">
+                        <img src="<?php echo get_template_directory_uri(); ?>/img/mini-patio-slide.jpg" alt="" loading="lazy">
                     </li>
                     <li class="slide">
                         <div class="slide-text">PHOTO WALL</div>
-                        <img src="<?php echo get_template_directory_uri(); ?>/img/mini-photo-wall.jpg" alt="">
+                        <img src="<?php echo get_template_directory_uri(); ?>/img/mini-photo-wall.jpg" alt="" loading="lazy">
                     </li>
         
                 </ul>
