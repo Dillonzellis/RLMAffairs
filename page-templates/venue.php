@@ -220,7 +220,7 @@ get_header();
             </div>
             <div class="m-slide">
                 <div class="m-slide-text">FOOD SERVICE BAR</div>
-                <img src="<?php echo get_template_directory_uri(); ?>/img/mini-food-slide.jpg" alt="" loading="lazy">
+                <img src="<?php echo get_template_directory_uri(); ?>/img/slide2a.jpg" alt="" loading="lazy">
             </div>
             <div class="m-slide">
                 <div class="m-slide-text">BUILT IN BAR</div>
@@ -228,7 +228,7 @@ get_header();
             </div>
             <div class="m-slide">
                 <div class="m-slide-text">OUTDOOR PEW SEATING</div>
-                <img src="<?php echo get_template_directory_uri(); ?>/img/mini-pew-slide.jpg" alt="" loading="lazy">
+                <img src="<?php echo get_template_directory_uri(); ?>/img/slide3a.jpg" alt="" loading="lazy">
             </div>
             <div class="m-slide">
                 <div class="m-slide-text">DJ STATION</div>
