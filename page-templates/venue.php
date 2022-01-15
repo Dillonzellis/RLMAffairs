@@ -21,13 +21,18 @@ get_header();
         </div>
     </div>
 </div>
-<div class="container-fluid">
+<!-- <div class="container-fluid">
     <div class="row lantern mb-5">
         <img src="<?php echo get_template_directory_uri(); ?>/img/lanterns-1.jpg" alt="" loading="lazy" srcset="">
     </div>
+</div> -->
+
+
+<div class="package-header-container mb-5">
+    <div class="package-heading-wrapper">
+        <h2>ESTATE ROOM & GARDEN PACKAGES</h2>
+    </div>
 </div>
-
-
 
 <hr class="mb-5">
 
@@ -46,14 +51,6 @@ get_header();
 </div>
 
 <hr class="mb-5">
-
-
-<div class="package-header-container mb-5">
-    <div class="package-heading-wrapper">
-        <h2>ESTATE ROOM & GARDEN PACKAGES</h2>
-    </div>
-</div>
-
 
 
 
@@ -209,110 +206,124 @@ get_header();
     </div>
 </div>
 
-    <!-- <div class="venue-feats-container">
-        <h3 class="venue-feats-header">Venue Features</h3>
-        <div class="carousel-wrapper">
-            <div class="slide-1">
-                <div class="slide-text">
-                    DONUT WALL
-                </div>
-            </div>
-            <div class="slide-2">
-                <div class="slide-text">
-                    CHAMPAGNE WALL
-                </div>
-            </div>
-        </div>
-        <hr>
-        <div class="feats-sub-header">
-            Additional Features:
-        </div>
-        <div class="sub-feats">Full Kitchen</div>
-        <div class="sub-feats">Audio System throughout & Microphone</div>
-        <hr>
-    </div> -->
     <section class="venue-feats-container">
         <h3 class="venue-feats-header">Venue Features</h3>
-        <div class="carousel" data-carousel>
-            <button class="carousel-button prev" data-carousel-button="prev">&#8656;</button>
-            <button class="carousel-button next" data-carousel-button="next">&#8658;</button>
-                <ul data-slides>
-                    <li class="slide" data-active>
-                        <img src="<?php echo get_template_directory_uri(); ?>/img/slide1.jpg" alt="" loading="lazy">
-                    </li>
-                    <li class="slide">
-                        <img src="<?php echo get_template_directory_uri(); ?>/img/slide2.jpg" alt="" loading="lazy">
-                    </li>
-                    <li class="slide">
-                        <img src="<?php echo get_template_directory_uri(); ?>/img/slide3.jpg" alt="" loading="lazy">
-                    </li>
-                    <li class="slide">
-                        <img src="<?php echo get_template_directory_uri(); ?>/img/slide4.jpg" alt="" loading="lazy">
-                    </li>
-                    <li class="slide">
-                        <img src="<?php echo get_template_directory_uri(); ?>/img/slide5.jpg" alt="" loading="lazy">
-                    </li>
-                    <li class="slide">
-                        <img src="<?php echo get_template_directory_uri(); ?>/img/slide6.jpg" alt="" loading="lazy">
-                    </li>
-        
-                </ul>
+
+        <div id="mobile-slideshow">
+            <div class="m-slide">
+                <div class="m-slide-text">DONUT WALL</div>
+                <img src="<?php echo get_template_directory_uri(); ?>/img/mini-donut-slide.jpg" alt="" loading="lazy">
+            </div>
+            <div class="m-slide">
+                <div class="m-slide-text">CHAMPAGNE WALL</div>
+                <img src="<?php echo get_template_directory_uri(); ?>/img/mini-champ-slide.jpg" alt="" loading="lazy">
+            </div>
+            <div class="m-slide">
+                <div class="m-slide-text">FOOD SERVICE BAR</div>
+                <img src="<?php echo get_template_directory_uri(); ?>/img/mini-food-slide.jpg" alt="" loading="lazy">
+            </div>
+            <div class="m-slide">
+                <div class="m-slide-text">BUILT IN BAR</div>
+                <img src="<?php echo get_template_directory_uri(); ?>/img/mini-bar-slide.jpg" alt="" loading="lazy">
+            </div>
+            <div class="m-slide">
+                <div class="m-slide-text">OUTDOOR PEW SEATING</div>
+                <img src="<?php echo get_template_directory_uri(); ?>/img/mini-pew-slide.jpg" alt="" loading="lazy">
+            </div>
+            <div class="m-slide">
+                <div class="m-slide-text">DJ STATION</div>
+                <img src="<?php echo get_template_directory_uri(); ?>/img/mini-dj-station.jpg" alt="" loading="lazy">
+            </div>
+            <div class="m-slide">
+                <div class="m-slide-text">VINTAGE WOOD TABLES & CHAIRS</div>
+                <img src="<?php echo get_template_directory_uri(); ?>/img/mini-tables-slide.jpg" alt="" loading="lazy">
+            </div>
+            <div class="m-slide">
+                <div class="m-slide-text">DANCE FLOOR</div>
+                <img src="<?php echo get_template_directory_uri(); ?>/img/mini-dance-slide.jpg" alt="" loading="lazy">
+            </div>
+            <div class="m-slide">
+                <div class="m-slide-text">PRIVATE DRESSING ROOMS</div>
+                <img src="<?php echo get_template_directory_uri(); ?>/img/mini-suite-1.jpg" alt="" loading="lazy">
+            </div>
+            <div class="m-slide">
+                <div class="m-slide-text">DRESSING SUITE SEPARATE BATH</div>
+                <img src="<?php echo get_template_directory_uri(); ?>/img/mini-suite-2.jpg" alt="" loading="lazy">
+            </div>
+            <div class="m-slide">
+                <div class="m-slide-text">OUTDOOR PATIO SPACE</div>
+                <img src="<?php echo get_template_directory_uri(); ?>/img/mini-patio-slide.jpg" alt="" loading="lazy">
+            </div>
+            <div class="m-slide">
+                <div class="m-slide-text">PHOTO WALL</div>
+                <img src="<?php echo get_template_directory_uri(); ?>/img/mini-photo-wall.jpg" alt="" loading="lazy">
+            </div>
+            
         </div>
-        <div class="carousel-mini" data-carousel>
-            <button class="carousel-button prev" data-carousel-button="prev">&#8656;</button>
-            <button class="carousel-button next" data-carousel-button="next">&#8658;</button>
-                <ul data-slides>
-                    <li class="slide" data-active>
-                        <div class="slide-text">DONUT WALL</div>
-                        <img src="<?php echo get_template_directory_uri(); ?>/img/mini-donut-slide.jpg" alt="" loading="lazy">
-                    </li>
-                    <li class="slide">
-                        <div class="slide-text">CHAMPAGNE WALL</div>
-                        <img src="<?php echo get_template_directory_uri(); ?>/img/mini-champ-slide.jpg" alt="" loading="lazy">
-                    </li>
-                    <li class="slide">
-                        <div class="slide-text">FOOD SERVICE BAR</div>
-                        <img src="<?php echo get_template_directory_uri(); ?>/img/mini-food-slide.jpg" alt="" loading="lazy">
-                    </li>
-                    <li class="slide">
-                        <div class="slide-text">BUILT IN BAR</div>
-                        <img src="<?php echo get_template_directory_uri(); ?>/img/mini-bar-slide.jpg" alt="" loading="lazy">
-                    </li>
-                    <li class="slide">
-                        <div class="slide-text">OUTDOOR PEW SEATING</div>
-                        <img src="<?php echo get_template_directory_uri(); ?>/img/mini-pew-slide.jpg" alt="" loading="lazy">
-                    </li>
-                    <li class="slide">
-                        <div class="slide-text">DJ STATION</div>
-                        <img src="<?php echo get_template_directory_uri(); ?>/img/mini-dj-station.jpg" alt="" loading="lazy">
-                    </li>
-                    <li class="slide">
-                        <div class="slide-text">VINTAGE WOOD TABLES & CHAIRS</div>
-                        <img src="<?php echo get_template_directory_uri(); ?>/img/mini-tables-slide.jpg" alt="" loading="lazy">
-                    </li>
-                    <li class="slide">
-                        <div class="slide-text">DANCE FLOOR</div>
-                        <img src="<?php echo get_template_directory_uri(); ?>/img/mini-dance-slide.jpg" alt="" loading="lazy">
-                    </li>
-                    <li class="slide">
-                        <div class="slide-text">PRIVATE DRESSING ROOMS</div>
-                        <img src="<?php echo get_template_directory_uri(); ?>/img/mini-suite-1.jpg" alt="" loading="lazy">
-                    </li>
-                    <li class="slide">
-                        <div class="slide-text">DRESSING SUITE SEPARATE BATH</div>
-                        <img src="<?php echo get_template_directory_uri(); ?>/img/mini-suite-2.jpg" alt="" loading="lazy">
-                    </li>
-                    <li class="slide">
-                        <div class="slide-text">OUTDOOR PATIO SPACE</div>
-                        <img src="<?php echo get_template_directory_uri(); ?>/img/mini-patio-slide.jpg" alt="" loading="lazy">
-                    </li>
-                    <li class="slide">
-                        <div class="slide-text">PHOTO WALL</div>
-                        <img src="<?php echo get_template_directory_uri(); ?>/img/mini-photo-wall.jpg" alt="" loading="lazy">
-                    </li>
-        
-                </ul>
+
+        <div id="slideshow">
+            <div class="slide">
+                <div class="slide-inner">
+                    <div class="slide-text">DONUT WALL</div>
+                    <img loading="lazy" src="<?php echo get_template_directory_uri(); ?>/img/slide1a.jpg" alt="">
+                </div>
+                <div class="slide-inner">
+                    <div class="slide-text">CHAMPAGNE WALL</div>
+                    <img loading="lazy" src="<?php echo get_template_directory_uri(); ?>/img/slide1b.jpg" alt="">
+                </div>
+            </div>
+            <div class="slide">
+                <div class="slide-inner">
+                    <div class="slide-text">BUILT IN FOOD SERVICE BAR</div>
+                    <img loading="lazy" src="<?php echo get_template_directory_uri(); ?>/img/slide2a.jpg" alt="">
+                </div>
+                <div class="slide-inner">
+                    <div class="slide-text">BUILT IN BAR</div>
+                    <img loading="lazy" src="<?php echo get_template_directory_uri(); ?>/img/slide2b.jpg" alt="">
+                </div>
+            </div>
+            <div class="slide">
+                <div class="slide-inner">
+                    <div class="slide-text">OUTDOOR PEW SEATING</div>
+                    <img loading="lazy" src="<?php echo get_template_directory_uri(); ?>/img/slide3a.jpg" alt="">
+                </div>
+                <div class="slide-inner">
+                    <div class="slide-text">DJ STATION</div>
+                    <img loading="lazy" src="<?php echo get_template_directory_uri(); ?>/img/slide3b.jpg" alt="">
+                </div>
+            </div>
+            <div class="slide">
+                <div class="slide-inner">
+                    <div class="slide-text">VINTAGE WOOD TABLES & FOLDING CHAIRS</div>
+                    <img loading="lazy" src="<?php echo get_template_directory_uri(); ?>/img/slide4a.jpg" alt="">
+                </div>
+                <div class="slide-inner">
+                    <div class="slide-text">DANCE FLOOR</div>
+                    <img loading="lazy" src="<?php echo get_template_directory_uri(); ?>/img/slide4b.jpg" alt="">
+                </div>
+            </div>
+            <div class="slide">
+                <div class="slide-inner">
+                    <div class="slide-text">PRIVATE DRESSING ROOMS</div>
+                    <img loading="lazy" src="<?php echo get_template_directory_uri(); ?>/img/slide5a.jpg" alt="">
+                </div>
+                <div class="slide-inner">
+                    <div class="slide-text">DRESSING SUITE SEPARATE BATH & ENTRANCE</div>
+                    <img loading="lazy" src="<?php echo get_template_directory_uri(); ?>/img/slide5b.jpg" alt="">
+                </div>
+            </div>
+            <div class="slide">
+                <div class="slide-inner">
+                    <div class="slide-text">OUTDOOR PATIO SPACE</div>
+                    <img loading="lazy" src="<?php echo get_template_directory_uri(); ?>/img/slide6a.jpg" alt="">
+                </div>
+                <div class="slide-inner">
+                    <div class="slide-text">PHOTO WALL</div>
+                    <img loading="lazy" src="<?php echo get_template_directory_uri(); ?>/img/slide6b.jpg" alt="">
+                </div>
+            </div>
         </div>
+        
         <hr>
         <div class="feats-sub-header">
             Additional Features:

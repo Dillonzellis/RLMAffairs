@@ -27,6 +27,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 	<link href="https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css2?family=Cairo&family=Josefin+Sans&display=swap" rel="stylesheet">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-215532036-1">
 </script>
