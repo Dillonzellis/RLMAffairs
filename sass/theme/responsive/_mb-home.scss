@@ -4,5 +4,15 @@
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: bottom;
-	background-attachment: fixed;
+	background-attachment: scroll;
+
+	@media (min-width: 350px) {
+		background-position: center;
+	}
+	@media (min-width: 650px) {
+		background-position: top;
+	}
+	@media (min-width: 850px) {
+		background-position: center -100px;
+	}
 }

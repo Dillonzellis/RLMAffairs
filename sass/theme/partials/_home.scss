@@ -36,7 +36,10 @@
 		background-size: cover;
 		background-repeat: no-repeat;
 		background-position: center;
-		background-attachment: fixed;
+
+		@media (min-width: 400px) {
+			background-attachment: fixed;
+		}
 	}
 
 	.event-wrapper {
@@ -58,7 +61,10 @@
 		background-size: cover;
 		background-repeat: no-repeat;
 		background-position: center;
-		background-attachment: fixed;
+
+		@media (min-width: 400px) {
+			background-attachment: fixed;
+		}
 	}
 
 	.cupcakes {
@@ -67,6 +73,9 @@
 		background-size: cover;
 		background-repeat: no-repeat;
 		background-position: center top;
-		background-attachment: fixed;
+
+		@media (min-width: 400px) {
+			background-attachment: fixed;
+		}
 	}
 }
