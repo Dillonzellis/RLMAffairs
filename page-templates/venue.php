@@ -21,16 +21,13 @@ get_header();
         </div>
     </div>
 </div>
-<!-- <div class="container-fluid">
-    <div class="row lantern mb-5">
-        <img src="<?php echo get_template_directory_uri(); ?>/img/lanterns-1.jpg" alt="" loading="lazy" srcset="">
-    </div>
-</div> -->
+
 
 
 <div class="package-header-container mb-5">
     <div class="package-heading-wrapper">
         <h2>ESTATE ROOM & GARDEN PACKAGES</h2>
+        <div>Venue Free With Any Package</div>
     </div>
 </div>
 
@@ -55,11 +52,6 @@ get_header();
 
 
 <div class="container">
-    <!-- <div class="row">
-        <div class="col">
-            <h2>Estate Room & Gardens Packages:</h2>
-        </div>
-    </div> -->
     <div class="row">
         <div class="col package-header">
             Sapphire Wedding Package: $3800.00 
@@ -69,6 +61,7 @@ get_header();
     <ul>
         <li>65 Guests</li>
         <li>7 hour Venue Rental Included</li>
+        <li>Free venue with packages</li>
         <li>Reception Décor: Centerpieces flowers for food display & reception</li>
         <li>Ceremony Décor: organza draping</li>
         <li>Wedding Party: flower girl petals Bride bouquet & 3 bridesmaids Groom & 3 groomsmen boutonnières</li>
@@ -211,7 +204,7 @@ get_header();
 
         <div id="mobile-slideshow">
             <div class="m-slide">
-                <div class="m-slide-text">Donut Wall</div>
+                <div class="m-slide-text">Donut Wall & Victorian Donut Ladder</div>
                 <img src="<?php echo get_template_directory_uri(); ?>/img/mini-donut-slide.jpg" alt="" loading="lazy">
             </div>
             <div class="m-slide">
@@ -264,7 +257,7 @@ get_header();
         <div id="slideshow">
             <div class="slide">
                 <div class="slide-inner">
-                    <div class="slide-text">Donut Wall</div>
+                    <div class="slide-text">Donut Wall & Victorian Donut Ladder</div>
                     <img loading="lazy" src="<?php echo get_template_directory_uri(); ?>/img/slide1a.jpg" alt="">
                 </div>
                 <div class="slide-inner">
