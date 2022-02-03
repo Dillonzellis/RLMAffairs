@@ -20,18 +20,6 @@ get_header();
     </div>
 </div>
 
-<!-- <div class="container-fluid">
-    <div class="row justify-content-center">
-        <img src="<?php echo get_template_directory_uri(); ?>/img/rlm+menu+2021+new-1.jpg" alt="" srcset="">
-    </div>
-    <div class="row justify-content-center">
-        <img src="<?php echo get_template_directory_uri(); ?>/img/rlm+menu+2021+new-2.jpg" alt="" srcset="">
-    </div>
-    <div class="row justify-content-center mb-5">
-        <img src="<?php echo get_template_directory_uri(); ?>/img/rlm+menu+2021+new-3.jpg" alt="" srcset="">
-    </div>
-</div> -->
-
 <div class="container">
     <div class="row">
         <img class="menu-header-img " src="<?php echo get_template_directory_uri(); ?>/img/veri.jpg" alt="" srcset=""  width="auto" height="230">
@@ -293,6 +281,12 @@ get_header();
             </div>
         </div>
     </div>
+<div class="disclaimer-wrapper">
+    <div class="disclaimer">*All red meat and seafood are upgrades with any package*</div>
+    <div class="disclaimer">*Menu availability and pricing subject to change without notice*</div> 
+</div>
+
+
 </div>
 
 
