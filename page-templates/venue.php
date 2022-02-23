@@ -148,7 +148,7 @@ get_header();
         <li><em>Monday - Thursday: $7900.00</em></li>
     </ul>
 
-    <div class="row">
+    <!-- <div class="row">
         <div class="col package-header">
             Micro Wedding Package: $2400.00 Monday - Thursday
         </div>
@@ -174,7 +174,7 @@ get_header();
         <div class="col package-header">
             Reception Only: $2700.00
         </div>
-    </div>
+    </div> -->
 
     <ul>
         <li>65 Guests</li>
