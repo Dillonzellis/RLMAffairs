@@ -15,8 +15,8 @@ get_header();
         <h1>RLM Affairs Estate Room & Gardens</h1>
 
         <div class="btn-wrapper flex-right">
-            <a href="https://hello.dubsado.com/public/form/view/5b15e29489c7f32312deacab" target="_blank" rel="noopener noreferrer"><button class="btn">
-                CONSULTATION FORM
+            <a href="https://hello.dubsado.com/public/form/view/62193b64a0670ab65036397c" target="_blank" rel="noopener noreferrer"><button class="btn">
+                BOOK A TOUR
             </button></a>
         </div>
     </div>
@@ -166,7 +166,7 @@ get_header();
         <li>Disposable Flatware Glasses and Paper Napkins</li>
         <li>2 tier Cake with stand, Staff will cut & serve cake Vanilla or Chocolate, Rough, Smooth or Naked iced</li>
         <li>Staff for event 2 hours</li>
-    </ul>
+    </ul> -->
 
 
 
@@ -174,7 +174,7 @@ get_header();
         <div class="col package-header">
             Reception Only: $2700.00
         </div>
-    </div> -->
+    </div>
 
     <ul>
         <li>65 Guests</li>

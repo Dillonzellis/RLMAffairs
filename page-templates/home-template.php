@@ -87,8 +87,8 @@ get_header();
 			</div>
 			<div class="col">
 				<div class="btn-wrapper">
-					<a href="https://hello.dubsado.com/public/form/view/5b15e29489c7f32312deacab" target="_blank" rel="noopener noreferrer"><button class="btn">
-						CONSULTATION FORM
+					<a href="https://hello.dubsado.com/public/form/view/62193b64a0670ab65036397c" target="_blank" rel="noopener noreferrer"><button class="btn">
+						BOOK A TOUR
 					</button></a>
 				</div>
 			</div>
