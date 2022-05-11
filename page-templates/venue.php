@@ -204,7 +204,7 @@ get_header();
 
     <div class="venue-only-wrapper mb-5">
         <div class="package-header">Venue Only</div>
-        <li>Fridays, Saturdays & Sundays - $1800.00 10 hours</li>
+        <li>Fridays, Saturdays & Sundays - $1800.00 8 hours</li>
         <li>Monday-Thursday - $1,200 6 hours</li>
         <li>Hourly rental 250.00/hour</li>
         <li>A $500 deposit is required to hold a date.</li>
