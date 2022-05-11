@@ -162,7 +162,7 @@ get_header();
 
     <div class="row">
         <div class="col package-header">
-            Micro Wedding Package: $2400.00 Monday - Thursday
+            Micro Wedding Package: $3300.00 Monday - Thursday
         </div>
     </div>
 
