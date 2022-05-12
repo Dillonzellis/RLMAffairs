@@ -68,7 +68,7 @@ get_header();
         <li>50 Guests</li>
         <li>6 hour Venue Rental Included</li>
         <li>Free venue with packages</li>
-        <li>Reception Décor: Centerpieces flowers for food display & reception</li>
+        <li>Reception Décor: Silk Greens & Organza</li>
         <li>Ceremony Décor: organza draping</li>
         <li>Wedding Party: flower girl petals Bride bouquet & 3 bridesmaids Groom & 3 groomsmen boutonnières</li>
         <li>Set Up & display of couple's personal items</li>
@@ -91,7 +91,7 @@ get_header();
     <ul>
         <li>60 Guests</li>
         <li>7 hour Venue Rental Included</li>
-        <li>Reception Décor: Centerpieces flowers for food display & reception</li>
+        <li>Reception Décor: Silk Greens & Organza entry table decor</li>
         <li>Ceremony Décor: Organza draping with optional greens</li>
         <li>Bride bouquet & 3 bridesmaids and flower girl petals Groom & 3 groomsmen boutonnières</li>
         <li>Cocktail hour 2 Hors d’Oeuvres</li>
@@ -115,10 +115,10 @@ get_header();
     <ul>
         <li>70 Guests</li>
         <li>9 hour Venue Rental Included</li>
-        <li>Ceremony Décor: Organza draping with Full Florals & with aisle pew decor</li>
-        <li>Reception Décor: Centerpiece arrangements for tables, flowers for food display & reception </li>
+        <li>Ceremony Décor: Organza draping with Florals & with aisle pew decor</li>
+        <li>Reception Décor: Lanterns, Greens, Organza, and entry table, mantle florals</li>
         <li>Bride bouquet & 3 bridesmaids and flower girl petals Groom & 3 groomsmen boutonnières </li>
-        <li>Catering: Cocktail hour 3 Hors d’Oeuvres 2 entrée buffet, signature salad, diner rolls, 2 side dishes </li>
+        <li>Catering: Cocktail hour 3 Hors d’Oeuvres 2 entrée buffet, signature salad, dinner rolls, 2 side dishes </li>
         <li>Beverages Displayed in Elegant Decanters: Tea and water beverages </li>
         <li>Silver or Gold flatware, Goblets and Dinner Plates</li>
         <li>3 tier cake with Cake stand, staff will cut & serve cake Vanilla or Chocolate, Rough, Smooth or Naked iced
@@ -140,8 +140,8 @@ get_header();
     <ul>
         <li>75 Guests</li>
         <li>11 hour Venue Rental Included</li>
-        <li>Ceremony Décor: Organza draping with Full Florals & with aisle pew decor</li>
-        <li>Reception Décor: Full floral Centerpieces flowers for food display & reception </li>
+        <li>Ceremony Décor: Organza draping with Florals & with aisle pew decor</li>
+        <li>Reception Décor: Floral Centerpieces flowers for food display & reception </li>
         <li>Bride bouquet & 5 bridesmaids and flower girl petals Groom & 5 groomsmen boutonnières </li>
         <li>3 Corsages (Moms Grandmothers Etc.) 3 Boutioneres (Fathers Grandfathers Etc)</li>
         <li>Catering: Cocktail hour 3 Hors d’Oeuvres 2 entrée buffet, signature salad, diner rolls, 2 side dishes </li>
