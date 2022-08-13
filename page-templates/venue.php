@@ -184,7 +184,7 @@ get_header();
 
     <div class="row">
         <div class="col package-header">
-            Reception Only: $2700.00
+            Reception Only: $3200.00
         </div>
     </div>
 
