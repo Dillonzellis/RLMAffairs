@@ -169,7 +169,6 @@ get_header();
     <ul>
         <li>25 Guests:</li>
         <li>4 hour Venue Rental included</li>
-        <li>Reception Décor: Centerpieces flowers for food display & reception</li>
         <li>Ceremony Décor: organza draping</li>
         <li>Bride bouquet & Groom boutonnière</li>
         <li>Set Up & display of couples personal items</li>
@@ -196,8 +195,6 @@ get_header();
         <li>Set Up & clean up</li>
         <li>Beverages Displayed in Decanters: Tea and water beverages </li>
         <li>Disposable service with signature paper napkins</li>
-        <li>White or cream linens for seating tables</li>
-        <li>Clean up dining area and kitchen</li>
         <li>2 tier cake with Cake stand Vanilla or Chocolate, Rough, Smooth or Naked iced</li>
         <li>Staff for event 4 hours</li>
     </ul>
