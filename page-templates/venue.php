@@ -203,7 +203,7 @@ get_header();
         <div class="package-header">Venue Only</div>
         <li>Fridays, Saturdays & Sundays - $1800.00 8 hours</li>
         <li>Monday-Thursday - $1,200 6 hours</li>
-        <li>Hourly rental 250.00/hour</li>
+        <li>With any package 250.00/hour</li>
         <li>A $500 deposit is required to hold a date.</li>
         <li>This deposit is not refundable. The balance is due 40 days prior to your event.</li>
     </div>
