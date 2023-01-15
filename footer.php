@@ -62,15 +62,26 @@ $container = get_theme_mod( 'understrap_container_type' );
 							</div>
 						</div>
 
-						<div class="knot-holder flex-center">
-							<div class="knot-img pr-4">
-								<img src="<?php echo get_template_directory_uri(); ?>/img/knot2020.jpg" alt=""
-									srcset="">
+						<div class="knot-holder flex-center" style="gap:1rem">
+							<div class="knot-img">
+								<a href="https://www.theknot.com/marketplace/rlm-affairs-estate-room-and-gardens-wysteria-room-gainesville-ga-2014225">
+									<img src="https://rlmaffairs.com/wp-content/uploads/2023/01/knot-2020.png" alt=""
+										srcset="">
+								</a>
 							</div>
 							<div class="knot-img">
-								<img src="<?php echo get_template_directory_uri(); ?>/img/knot2021.jpg" alt=""
-									srcset="">
+								<a href="https://www.theknot.com/marketplace/rlm-affairs-estate-room-and-gardens-wysteria-room-gainesville-ga-2014225">
+									<img src="https://rlmaffairs.com/wp-content/uploads/2023/01/knot2021.png" alt=""
+										srcset="">
+								</a>
 							</div>
+							<div class="knot-img">
+								<a href="https://www.theknot.com/marketplace/rlm-affairs-estate-room-and-gardens-wysteria-room-gainesville-ga-2014225">
+									<img src="https://rlmaffairs.com/wp-content/uploads/2023/01/knot2022.webp" alt=""
+										srcset="">
+								</a>
+							</div>
+							
 						</div>
 
 						<div class="social-holder flex-center">
