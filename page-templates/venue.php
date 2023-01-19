@@ -79,7 +79,7 @@ get_header();
         </li>
         <li>Staff for event 4 hours</li>
         <li>Rehearsal Day of Event</li>
-        <li><em>Monday- Thursday: $3300.00</em></li>
+        <li><em>Monday- Thursday: $3600.00</em></li>
     </ul>
 
     <div class="row">
@@ -103,7 +103,7 @@ get_header();
         <li>Staff for event 4 hours</li>
         <li>Day of Coordinator: Wedding Ceremony Coordination/ Dinner service/ Cake Cutting</li>
         <li>Rehearsal Day of Event</li>
-        <li><em>Monday- Thursday: $4300.00</em></li>
+        <li><em>Monday- Thursday: $4500.00</em></li>
     </ul>
 
     <div class="row">
@@ -128,7 +128,7 @@ get_header();
         <li>Day of Coordinator: Wedding Ceremony Coordination/Dinner service/ Toasts/ Cake Cutting</li>
         <li>Rehearsal with coordinator </li>
         <li>Clean up</li>
-        <li><em>Monday- Thursday: $5900.00</em></li>
+        <li><em>Monday- Thursday: $6000.00</em></li>
     </ul>
 
     <div class="row">
@@ -157,7 +157,7 @@ get_header();
         </li>
         <li>Rehearsal with coordinator </li>
         <li>Full set up & Clean up</li>
-        <li><em>Monday - Thursday: $7900.00</em></li>
+        <li><em>Monday - Thursday: $8000.00</em></li>
     </ul>
 
     <div class="row">
