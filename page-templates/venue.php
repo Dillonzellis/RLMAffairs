@@ -67,11 +67,9 @@ get_header();
     <ul>
         <li>50 Guests</li>
         <li>6 hour Venue Rental Included</li>
-        <li>Free venue with packages</li>
         <li>Reception Décor: Silk Greens & Organza</li>
         <li>Ceremony Décor: organza draping</li>
         <li>Wedding Party: flower girl petals Bride bouquet & 3 bridesmaids Groom & 3 groomsmen boutonnières</li>
-        <li>Set Up & display of couple's personal items</li>
         <li>One entrée buffet with 2 side dishes and bread Or Heavy Hors d’Oeuvres with 3 choices</li>
         <li>Tea and Water beverages</li>
         <li>Disposable Flatware Glasses and Paper Napkins</li>
@@ -79,7 +77,7 @@ get_header();
         </li>
         <li>Staff for event 4 hours</li>
         <li>Rehearsal Day of Event</li>
-        <li><em>Monday- Thursday: $3600.00</em></li>
+        <li><em>Monday - Thursday: $3600.00</em></li>
     </ul>
 
     <div class="row">
@@ -103,7 +101,7 @@ get_header();
         <li>Staff for event 4 hours</li>
         <li>Day of Coordinator: Wedding Ceremony Coordination/ Dinner service/ Cake Cutting</li>
         <li>Rehearsal Day of Event</li>
-        <li><em>Monday- Thursday: $4500.00</em></li>
+        <li><em>Monday - Thursday: $4500.00</em></li>
     </ul>
 
     <div class="row">
@@ -139,7 +137,7 @@ get_header();
 
     <ul>
         <li>75 Guests</li>
-        <li>11 hour Venue Rental Included</li>
+        <li>10 hour Venue Rental Included</li>
         <li>Ceremony Décor: Organza draping with Florals & with aisle pew decor</li>
         <li>Reception Décor: Floral Centerpieces flowers for food display & reception </li>
         <li>Bride bouquet & 5 bridesmaids and flower girl petals Groom & 5 groomsmen boutonnières </li>
@@ -157,7 +155,7 @@ get_header();
         </li>
         <li>Rehearsal with coordinator </li>
         <li>Full set up & Clean up</li>
-        <li><em>Monday - Thursday: $8000.00</em></li>
+        <li><em>Monday - Thursday: $8100.00</em></li>
     </ul>
 
     <div class="row">
@@ -183,7 +181,7 @@ get_header();
 
     <div class="row">
         <div class="col package-header">
-            Reception Only: $3200.00
+            Reception Only: $3500.00
         </div>
     </div>
 
