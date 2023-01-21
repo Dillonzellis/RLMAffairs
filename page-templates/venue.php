@@ -1,10 +1,11 @@
 <?php
+
 /**
  * Template Name: Venue
  */
 
 // Exit if accessed directly.
-defined( 'ABSPATH' ) || exit;
+defined('ABSPATH') || exit;
 
 get_header();
 ?>
@@ -15,8 +16,7 @@ get_header();
         <h1>RLM Affairs Estate Room & Gardens</h1>
 
         <div class="btn-wrapper flex-right">
-            <a href="https://hello.dubsado.com/public/form/view/5afe45144f411345f6129204" target="_blank"
-                rel="noopener noreferrer"><button class="btn">
+            <a href="https://hello.dubsado.com/public/form/view/5afe45144f411345f6129204" target="_blank" rel="noopener noreferrer"><button class="btn">
                     BOOK A TOUR
                 </button></a>
         </div>
@@ -37,8 +37,7 @@ get_header();
 <div class="container">
     <div class="row align-items-center mb-5">
         <div class="col-md-2 flex-center">
-            <img class="logo" src="<?php echo get_template_directory_uri(); ?>/img/venue-rlm-logo.jpg" alt="" srcset=""
-                loading="lazy">
+            <img class="logo" src="<?php echo get_template_directory_uri(); ?>/img/venue-rlm-logo.jpg" alt="" srcset="" loading="lazy">
         </div>
 
         <div class="col-md-10 flex-center">
@@ -55,9 +54,138 @@ get_header();
 
 <hr class="mb-5">
 
+<section class="venue-feats-container">
+    <h3 class="venue-feats-header">Venue Features</h3>
+
+    <div id="mobile-slideshow">
+        <div class="m-slide">
+            <div class="m-slide-text">Donut Wall & Victorian Donut Ladder</div>
+            <img src="<?php echo get_template_directory_uri(); ?>/img/mini-donut-slide.jpg" alt="" loading="lazy">
+        </div>
+        <div class="m-slide">
+            <div class="m-slide-text">Champagne Wall</div>
+            <img src="<?php echo get_template_directory_uri(); ?>/img/mini-champ-slide.jpg" alt="" loading="lazy">
+        </div>
+        <div class="m-slide">
+            <div class="m-slide-text">Food Service Bar</div>
+            <img src="<?php echo get_template_directory_uri(); ?>/img/slide2a.jpg" alt="" loading="lazy">
+        </div>
+        <div class="m-slide">
+            <div class="m-slide-text">Built in Bar</div>
+            <img src="<?php echo get_template_directory_uri(); ?>/img/mini-bar-slide.jpg" alt="" loading="lazy">
+        </div>
+        <div class="m-slide">
+            <div class="m-slide-text">Outdoor Pew Seating</div>
+            <img src="<?php echo get_template_directory_uri(); ?>/img/slide3a.jpg" alt="" loading="lazy">
+        </div>
+        <div class="m-slide">
+            <div class="m-slide-text">DJ Station</div>
+            <img src="<?php echo get_template_directory_uri(); ?>/img/mini-dj-station.jpg" alt="" loading="lazy">
+        </div>
+        <div class="m-slide">
+            <div class="m-slide-text">Vintage Wood Tables & Chairs</div>
+            <img src="<?php echo get_template_directory_uri(); ?>/img/mini-tables-slide.jpg" alt="" loading="lazy">
+        </div>
+        <div class="m-slide">
+            <div class="m-slide-text">Dance Floor</div>
+            <img src="<?php echo get_template_directory_uri(); ?>/img/mini-dance-slide.jpg" alt="" loading="lazy">
+        </div>
+        <div class="m-slide">
+            <div class="m-slide-text">Private Dressing Rooms</div>
+            <img src="<?php echo get_template_directory_uri(); ?>/img/mini-suite-1.jpg" alt="" loading="lazy">
+        </div>
+        <div class="m-slide">
+            <div class="m-slide-text">Dressing Suite & Separate Bath</div>
+            <img src="<?php echo get_template_directory_uri(); ?>/img/mini-suite-2.jpg" alt="" loading="lazy">
+        </div>
+        <div class="m-slide">
+            <div class="m-slide-text">Outdoor Patio Space</div>
+            <img src="<?php echo get_template_directory_uri(); ?>/img/mini-patio-slide.jpg" alt="" loading="lazy">
+        </div>
+        <div class="m-slide">
+            <div class="m-slide-text">Photo Wall</div>
+            <img src="<?php echo get_template_directory_uri(); ?>/img/mini-photo-wall.jpg" alt="" loading="lazy">
+        </div>
+
+    </div>
+
+    <div id="slideshow">
+        <div class="slide">
+            <div class="slide-inner">
+                <div class="slide-text">Donut Wall & Victorian Donut Ladder</div>
+                <img loading="lazy" src="<?php echo get_template_directory_uri(); ?>/img/slide1a.jpg" alt="">
+            </div>
+            <div class="slide-inner">
+                <div class="slide-text">Champagne Wall</div>
+                <img loading="lazy" src="<?php echo get_template_directory_uri(); ?>/img/slide1b.jpg" alt="">
+            </div>
+        </div>
+        <div class="slide">
+            <div class="slide-inner">
+                <div class="slide-text">Built in Food Service Bar</div>
+                <img loading="lazy" src="<?php echo get_template_directory_uri(); ?>/img/slide2a.jpg" alt="">
+            </div>
+            <div class="slide-inner">
+                <div class="slide-text">Built in Bar</div>
+                <img loading="lazy" src="<?php echo get_template_directory_uri(); ?>/img/slide2b.jpg" alt="">
+            </div>
+        </div>
+        <div class="slide">
+            <div class="slide-inner">
+                <div class="slide-text">Outdoor Pew Seating</div>
+                <img loading="lazy" src="<?php echo get_template_directory_uri(); ?>/img/slide3a.jpg" alt="">
+            </div>
+            <div class="slide-inner">
+                <div class="slide-text">DJ Station</div>
+                <img loading="lazy" src="<?php echo get_template_directory_uri(); ?>/img/slide3b.jpg" alt="">
+            </div>
+        </div>
+        <div class="slide">
+            <div class="slide-inner">
+                <div class="slide-text">Vintage Wood Tables & Folding Chairs</div>
+                <img loading="lazy" src="<?php echo get_template_directory_uri(); ?>/img/slide4a.jpg" alt="">
+            </div>
+            <div class="slide-inner">
+                <div class="slide-text">Dance Floor</div>
+                <img loading="lazy" src="<?php echo get_template_directory_uri(); ?>/img/slide4b.jpg" alt="">
+            </div>
+        </div>
+        <div class="slide">
+            <div class="slide-inner">
+                <div class="slide-text">Private Dressing Rooms</div>
+                <img loading="lazy" src="<?php echo get_template_directory_uri(); ?>/img/slide5a.jpg" alt="">
+            </div>
+            <div class="slide-inner">
+                <div class="slide-text">Dressing Suite Separate Bath & Entrance</div>
+                <img loading="lazy" src="<?php echo get_template_directory_uri(); ?>/img/slide5b.jpg" alt="">
+            </div>
+        </div>
+        <div class="slide">
+            <div class="slide-inner">
+                <div class="slide-text">Outdoor Patio Space</div>
+                <img loading="lazy" src="<?php echo get_template_directory_uri(); ?>/img/slide6a.jpg" alt="">
+            </div>
+            <div class="slide-inner">
+                <div class="slide-text">Photo Wall</div>
+                <img loading="lazy" src="<?php echo get_template_directory_uri(); ?>/img/slide6b.jpg" alt="">
+            </div>
+        </div>
+    </div>
+
+</section>
 
 
-<div class="container">
+
+<section class="venue-feats-container">
+    <hr>
+    <div class="feats-sub-header">
+        Wedding Packages
+    </div>
+    <hr>
+</section>
+
+
+<div class="container" style="margin-top: 2rem">
     <div class="row">
         <div class="col package-header">
             Sapphire Wedding Package: $3800.00
@@ -181,7 +309,7 @@ get_header();
 
     <div class="row">
         <div class="col package-header">
-            Reception Only: $3500.00
+            Wedding Reception Only: $3500.00
         </div>
     </div>
 
@@ -197,6 +325,77 @@ get_header();
         <li>Staff for event 4 hours</li>
     </ul>
 
+    <section class="venue-feats-container">
+        <hr>
+        <div class="feats-sub-header">
+            Event Packages
+        </div>
+        <hr>
+    </section>
+
+    <div class="row">
+        <div class="col package-header">
+            Premier Event Package: $3500.00
+        </div>
+    </div>
+
+    <ul>
+        <li>50 Guests:</li>
+        <li>6 hour Venue Rental included</li>
+        <li>Event Décor: greens and lanterns </li>
+        <li>Set Up & display of your personal items</li>
+        <li>One entrée buffet with 2 side dishes and bread Or Heavy Hors d’Oeuvres with 3 choices</li>
+        <li>Beverages Displayed in Elegant Decanters: Tea and water beverages </li>
+        <li>Disposable Flatware Glasses and Paper Napkins</li>
+        <li>2 tier Cake for dessert with stand, Staff will cut & serve cake Vanilla or Chocolate, Rough, Smooth or Naked iced</li>
+        <li>Staff for event 4 hours</li>
+        <li>You may add additional guests for $28.00 a person</li>
+        <li><em>Monday - Thursday: $3400.00</em></li>
+    </ul>
+
+
+    <div class="row">
+        <div class="col package-header">
+            Elegant Event Package: $6000.00
+        </div>
+    </div>
+
+    <ul>
+        <li>80 Guests:</li>
+        <li>9 hour Venue Rental Included</li>
+        <li>Set Up & display of your personal items</li>
+        <li>Event Décor: table runners, greens and lanterns for tables, flowers for entry table and mantle</li>
+        <li>Catering: Cocktail hour 2 Hors d’Oeuvres 2 entrée buffet, signature salad, diner rolls, 2 side dishes</li>
+        <li>Beverages Displayed in Elegant Decanters: Tea and water beverages </li>
+        <li>Charger, Silver flatware, Goblets and Dinner Plates with Napkins</li>
+        <li>3 tier cake with stand, staff will cut & serve cake Vanilla or Chocolate, Rough, Smooth or Naked iced</li>
+        <li>Staff for event 6 hours </li>
+        <li>You may add additional guests for $42.00 a person</li>
+        <li><em>Monday- Thursday: $5700.00</em></li>
+    </ul>
+
+    <div class="row">
+        <div class="col package-header">
+            Exquisite Event Package: $8000.00
+        </div>
+    </div>
+
+    <ul>
+        <li>100 guests </li>
+        <li>10 hour Venue Rental Included</li>
+        <li>Set Up & display of your personal items</li>
+        <li>Event Décor: table runners, greens & lanterns with florals for tables, florals for food display, mantle & entry table</li>
+        <li>Catering: Cocktail hour 3 Hors d’Oeuvres Dinner 2 entrée buffet, signature salad, diner rolls, 2 side dishes</li>
+        <li>Beverages Displayed in Elegant Decanters: Tea and water beverages </li>
+        <li>Charger,Silver or Gold flatware, Goblets and Dinner Plates with Napkins</li>
+        <li>3 tier cake with stand, staff will cut & serve cake Vanilla or Chocolate, Rough, Smooth or Naked iced</li>
+        <li>Staff for event 6 hours </li>
+        <li>You may add additional guests for $48.00 a person</li>
+        <li>Photo Booth Wall</li>
+        <li>Day of Coordinator: Timeline /Dinner Service /Toasts / Cake Cutting/ Etc.</li>
+        <li><em>Monday- Thursday: $7800.00</em></li>
+    </ul>
+
     <div class="venue-only-wrapper mb-5">
         <div class="package-header">Venue Only</div>
         <li>Fridays, Saturdays & Sundays - $1800.00 8 hours</li>
@@ -207,124 +406,8 @@ get_header();
     </div>
 </div>
 
+
 <section class="venue-feats-container">
-    <h3 class="venue-feats-header">Venue Features</h3>
-
-    <div id="mobile-slideshow">
-        <div class="m-slide">
-            <div class="m-slide-text">Donut Wall & Victorian Donut Ladder</div>
-            <img src="<?php echo get_template_directory_uri(); ?>/img/mini-donut-slide.jpg" alt="" loading="lazy">
-        </div>
-        <div class="m-slide">
-            <div class="m-slide-text">Champagne Wall</div>
-            <img src="<?php echo get_template_directory_uri(); ?>/img/mini-champ-slide.jpg" alt="" loading="lazy">
-        </div>
-        <div class="m-slide">
-            <div class="m-slide-text">Food Service Bar</div>
-            <img src="<?php echo get_template_directory_uri(); ?>/img/slide2a.jpg" alt="" loading="lazy">
-        </div>
-        <div class="m-slide">
-            <div class="m-slide-text">Built in Bar</div>
-            <img src="<?php echo get_template_directory_uri(); ?>/img/mini-bar-slide.jpg" alt="" loading="lazy">
-        </div>
-        <div class="m-slide">
-            <div class="m-slide-text">Outdoor Pew Seating</div>
-            <img src="<?php echo get_template_directory_uri(); ?>/img/slide3a.jpg" alt="" loading="lazy">
-        </div>
-        <div class="m-slide">
-            <div class="m-slide-text">DJ Station</div>
-            <img src="<?php echo get_template_directory_uri(); ?>/img/mini-dj-station.jpg" alt="" loading="lazy">
-        </div>
-        <div class="m-slide">
-            <div class="m-slide-text">Vintage Wood Tables & Chairs</div>
-            <img src="<?php echo get_template_directory_uri(); ?>/img/mini-tables-slide.jpg" alt="" loading="lazy">
-        </div>
-        <div class="m-slide">
-            <div class="m-slide-text">Dance Floor</div>
-            <img src="<?php echo get_template_directory_uri(); ?>/img/mini-dance-slide.jpg" alt="" loading="lazy">
-        </div>
-        <div class="m-slide">
-            <div class="m-slide-text">Private Dressing Rooms</div>
-            <img src="<?php echo get_template_directory_uri(); ?>/img/mini-suite-1.jpg" alt="" loading="lazy">
-        </div>
-        <div class="m-slide">
-            <div class="m-slide-text">Dressing Suite & Separate Bath</div>
-            <img src="<?php echo get_template_directory_uri(); ?>/img/mini-suite-2.jpg" alt="" loading="lazy">
-        </div>
-        <div class="m-slide">
-            <div class="m-slide-text">Outdoor Patio Space</div>
-            <img src="<?php echo get_template_directory_uri(); ?>/img/mini-patio-slide.jpg" alt="" loading="lazy">
-        </div>
-        <div class="m-slide">
-            <div class="m-slide-text">Photo Wall</div>
-            <img src="<?php echo get_template_directory_uri(); ?>/img/mini-photo-wall.jpg" alt="" loading="lazy">
-        </div>
-
-    </div>
-
-    <div id="slideshow">
-        <div class="slide">
-            <div class="slide-inner">
-                <div class="slide-text">Donut Wall & Victorian Donut Ladder</div>
-                <img loading="lazy" src="<?php echo get_template_directory_uri(); ?>/img/slide1a.jpg" alt="">
-            </div>
-            <div class="slide-inner">
-                <div class="slide-text">Champagne Wall</div>
-                <img loading="lazy" src="<?php echo get_template_directory_uri(); ?>/img/slide1b.jpg" alt="">
-            </div>
-        </div>
-        <div class="slide">
-            <div class="slide-inner">
-                <div class="slide-text">Built in Food Service Bar</div>
-                <img loading="lazy" src="<?php echo get_template_directory_uri(); ?>/img/slide2a.jpg" alt="">
-            </div>
-            <div class="slide-inner">
-                <div class="slide-text">Built in Bar</div>
-                <img loading="lazy" src="<?php echo get_template_directory_uri(); ?>/img/slide2b.jpg" alt="">
-            </div>
-        </div>
-        <div class="slide">
-            <div class="slide-inner">
-                <div class="slide-text">Outdoor Pew Seating</div>
-                <img loading="lazy" src="<?php echo get_template_directory_uri(); ?>/img/slide3a.jpg" alt="">
-            </div>
-            <div class="slide-inner">
-                <div class="slide-text">DJ Station</div>
-                <img loading="lazy" src="<?php echo get_template_directory_uri(); ?>/img/slide3b.jpg" alt="">
-            </div>
-        </div>
-        <div class="slide">
-            <div class="slide-inner">
-                <div class="slide-text">Vintage Wood Tables & Folding Chairs</div>
-                <img loading="lazy" src="<?php echo get_template_directory_uri(); ?>/img/slide4a.jpg" alt="">
-            </div>
-            <div class="slide-inner">
-                <div class="slide-text">Dance Floor</div>
-                <img loading="lazy" src="<?php echo get_template_directory_uri(); ?>/img/slide4b.jpg" alt="">
-            </div>
-        </div>
-        <div class="slide">
-            <div class="slide-inner">
-                <div class="slide-text">Private Dressing Rooms</div>
-                <img loading="lazy" src="<?php echo get_template_directory_uri(); ?>/img/slide5a.jpg" alt="">
-            </div>
-            <div class="slide-inner">
-                <div class="slide-text">Dressing Suite Separate Bath & Entrance</div>
-                <img loading="lazy" src="<?php echo get_template_directory_uri(); ?>/img/slide5b.jpg" alt="">
-            </div>
-        </div>
-        <div class="slide">
-            <div class="slide-inner">
-                <div class="slide-text">Outdoor Patio Space</div>
-                <img loading="lazy" src="<?php echo get_template_directory_uri(); ?>/img/slide6a.jpg" alt="">
-            </div>
-            <div class="slide-inner">
-                <div class="slide-text">Photo Wall</div>
-                <img loading="lazy" src="<?php echo get_template_directory_uri(); ?>/img/slide6b.jpg" alt="">
-            </div>
-        </div>
-    </div>
-
     <hr>
     <div class="feats-sub-header">
         Additional Features:
@@ -390,8 +473,7 @@ get_header();
             <a href="http://www.alternativeweddingsbyrevroberts.com/" target="_blank" rel="noopener noreferrer">
                 <p>Alternative Weddings
             </a> - Rev. Dr. Barbara Roberts - <a href="tel:+706-265-7794">706-265-7794</a></p>
-            <a href="https://www.weddingwire.com/biz/reverend-gale-m-york-alpharetta/9d305b6b2c47239e.html"
-                target="_blank" rel="noopener noreferrer">
+            <a href="https://www.weddingwire.com/biz/reverend-gale-m-york-alpharetta/9d305b6b2c47239e.html" target="_blank" rel="noopener noreferrer">
                 <p>Rev. Gale York
             </a> - <a href="tel:+678-890-4881">678-890-4881</a></p>
             <p>Davis Palmour - <a href="tel:+706-455-8421">706-455-8421</a></p>
@@ -423,23 +505,18 @@ get_header();
             <a href="https://vipsoutherntours.com/" target="_blank" rel="noopener noreferrer">
                 <p>VIP Southern Tours
             </a> - <a href="tel:+706-348-8747">706-348-8747</a></p>
-            <a href="http://juliettechapel.com/wp-content/uploads/2020/02/e-Brochure-1.pdf" target="_blank"
-                rel="noopener noreferrer">
+            <a href="http://juliettechapel.com/wp-content/uploads/2020/02/e-Brochure-1.pdf" target="_blank" rel="noopener noreferrer">
                 <p>Bradford Turner Insurance Group
-            </a> - Brittany Turner - <a
-                href="http://juliettechapel.com/wp-content/uploads/2020/02/Wedding-Rate-Chart-1.pdf" target="_blank"
-                rel="noopener noreferrer"></a>Wedding Rate Chart</a> - <a
-                href="http://wedding%20protector%20plan-quote%20%26%20issue/" target="_blank"
-                rel="noopener noreferrer">Wedding Quote</a></p>
+            </a> - Brittany Turner - <a href="http://juliettechapel.com/wp-content/uploads/2020/02/Wedding-Rate-Chart-1.pdf" target="_blank" rel="noopener noreferrer"></a>Wedding Rate Chart</a> - <a href="http://wedding%20protector%20plan-quote%20%26%20issue/" target="_blank" rel="noopener noreferrer">Wedding Quote</a></p>
         </div>
     </div>
 </div>
 
 <?php
-    while ( have_posts() ) {
-        the_post();
-        get_template_part( 'loop-templates/content', 'page' );
-    }
+while (have_posts()) {
+    the_post();
+    get_template_part('loop-templates/content', 'page');
+}
 ?>
 
 <?php
