@@ -257,7 +257,7 @@ get_header();
             </div>
         </div>
     </div>
-    <div class="row mb-5">
+    <!-- <div class="row mb-5">
         <div class="col-md">
             <img class="img-blur"src="<?php echo get_template_directory_uri(); ?>/img/chicken-taco.jpg" alt="" srcset=""  width="auto" height="230">
         </div>
@@ -280,7 +280,7 @@ get_header();
                 </ul>
             </div>
         </div>
-    </div>
+    </div> -->
 <div class="disclaimer-wrapper">
     <div class="disclaimer">*All red meat and seafood are upgrades with any package*</div>
     <div class="disclaimer">*Menu availability and pricing subject to change without notice*</div> 

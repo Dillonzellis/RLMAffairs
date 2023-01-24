@@ -441,9 +441,9 @@ get_header();
 
 
     <div class="vendors mt-5">
-        <div class="">Preferred Vendors:</div>
+        <div style="font-size:24px; margin-bottom:1rem" class="package-header">Vendors:</div>
         <div class="photography mb-3">
-            <div class="">Photography:</div>
+            <div class="package-header">Photography:</div>
             <a href="https://www.ritaweddingstudio.com/" target="_blank" rel="noopener noreferrer">
                 <p>Rita Wedding Studio</p>
             </a>
@@ -459,14 +459,21 @@ get_header();
         </div>
 
         <div class="dj-services mb-3">
-            <div class="">DJ Services:</div>
+            <div class="package-header">Bartender:</div>
+            <div class=""><a href="https://cdeeventbartender.com" target="_blank" rel="noopener noreferrer">Citizen Dane Enterprises</a></div>
+        </div>
+
+
+
+        <div class="dj-services mb-3">
+            <div class="package-header">DJ Services:</div>
             <a href="https://djcuttlefish.com/about-us/" target="_blank" rel="noopener noreferrer">
                 <p>Far Out Galaxy
             </a> - (DJ) - <a href="tel:+770-876-9248">770-876-9248</a></p>
         </div>
 
         <div class="officiant mb-3">
-            <div class="">Officiant:</div>
+            <div class="package-header">Officiant:</div>
             <a href="https://www.weddingofficiantga.com/" target="_blank" rel="noopener noreferrer">
                 <p>Rev. Heinz Kloeter
             </a> - <a href="tel:+678-983-7976">678-983-7976</a></p>
@@ -490,7 +497,7 @@ get_header();
         </div>
 
         <div class="hair-makeup mb-3">
-            <div class="">Hair & Make Up</div>
+            <div class="package-header">Hair & Make Up</div>
             <a href="https://blissformalhair.com/" target="_blank" rel="noopener noreferrer">
                 <p>Bliss Formal Hair
             </a> - Candice Miklius</p>
@@ -500,7 +507,7 @@ get_header();
         </div>
 
         <div class="event-travel mb-3">
-            <div class="">Event Travel & Insurance</div>
+            <div class="package-header">Event Travel & Insurance</div>
             <p>Vacations by Sally - Sally Pavao - <a href="tel:+706-360-1346">706-360-1346</a></p>
             <a href="https://vipsoutherntours.com/" target="_blank" rel="noopener noreferrer">
                 <p>VIP Southern Tours
