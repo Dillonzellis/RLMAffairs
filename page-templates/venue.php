@@ -10,6 +10,19 @@ defined('ABSPATH') || exit;
 get_header();
 ?>
 
+<style>
+    .flex-col{
+        display: flex;
+        flex-direction: column;
+    }
+
+    @media(min-width:768px){
+        .flex-col{
+            flex-direction: row;
+        }
+    }
+</style>
+
 <div class="container">
     <div class="row align-items-center justify-content-center mb-5">
 
@@ -349,7 +362,7 @@ get_header();
         <li>Disposable Flatware Glasses and Paper Napkins</li>
         <li>2 tier Cake for dessert with stand, Staff will cut & serve cake Vanilla or Chocolate, Rough, Smooth or Naked iced</li>
         <li>Staff for event 4 hours</li>
-        <li>You may add additional guests for $28.00 a person</li>
+        <li>You may add additional guests for $32.00 a person</li>
         <li><em>Monday - Thursday: $3400.00</em></li>
     </ul>
 
@@ -361,7 +374,7 @@ get_header();
     </div>
 
     <ul>
-        <li>80 Guests:</li>
+        <li>65 Guests:</li>
         <li>9 hour Venue Rental Included</li>
         <li>Set Up & display of your personal items</li>
         <li>Event Décor: table runners, greens and lanterns for tables, flowers for entry table and mantle</li>
@@ -381,7 +394,7 @@ get_header();
     </div>
 
     <ul>
-        <li>100 guests </li>
+        <li>75 guests </li>
         <li>10 hour Venue Rental Included</li>
         <li>Set Up & display of your personal items</li>
         <li>Event Décor: table runners, greens & lanterns with florals for tables, florals for food display, mantle & entry table</li>
@@ -460,7 +473,10 @@ get_header();
 
         <div class="dj-services mb-3">
             <div class="package-header">Bartender:</div>
-            <div class=""><a href="https://cdeeventbartender.com" target="_blank" rel="noopener noreferrer">Citizen Dane Enterprises</a></div>
+            <div class="flex-col" style="gap:0.5rem"><a style="text-decoration:underline" href="https://cdeeventbartender.com" target="_blank" rel="noopener noreferrer">Citizen Dane Enterprises</a>
+        <a href="tel:+2483451090">(248) 345-1090</a>
+    <a href="mailto:cdaneger@gmail.com">cdaneger@gmail.com</a>
+    </div>
         </div>
 
 
