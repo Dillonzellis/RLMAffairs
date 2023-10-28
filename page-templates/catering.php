@@ -15,7 +15,7 @@ get_header();
 <div class="container">
     <div class="row">
         <p>
-            RLM Affairs offers all the services you may need for your event. Our staff works directly with our clients to tailor each event to your specific needs. Whether you need just catering, or a complete event design, we will work with you as much as you need, or we will provide you with A la carte services based specifically on your needs and budget. Our award winning catering, wedding planning, cakes, and floral design are available every day, breakfast, lunch, dinner, or in between. 
+            RLM Affairs offers all the services you may need for your event. Our staff works directly with our clients to tailor each event to your specific needs. Whether you need just catering, or a complete event design, we will work with you as much as you need, or we will provide you with A la carte services based specifically on your needs and budget. Our award winning catering, wedding planning, cakes, and floral design are available every day, breakfast, lunch, dinner, or in between.
         </p>
     </div>
 </div>
@@ -103,7 +103,7 @@ get_header();
                         Baby organic spring mix Salad with pecans, cucumber, dried cranberries and house balsamic vinaigrette
                     </li>
                     <li>
-                        Romaine, spinach, and iceberg topped with bacon, cucumber, tomato, bleu cheese crumbles, and a balsamic drizzle                    
+                        Romaine, spinach, and iceberg topped with bacon, cucumber, tomato, bleu cheese crumbles, and a balsamic drizzle
                     </li>
                     <li>
                         Garden romaine and iceberg topped with fresh vegetables and served with your choice of dressing
@@ -283,7 +283,7 @@ get_header();
     </div> -->
 <div class="disclaimer-wrapper">
     <div class="disclaimer">*All red meat and seafood are upgrades with any package*</div>
-    <div class="disclaimer">*Menu availability and pricing subject to change without notice*</div> 
+    <div class="disclaimer">*Menu availability and pricing subject to change without notice*</div>
 </div>
 
 
