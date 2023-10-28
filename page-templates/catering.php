@@ -50,14 +50,14 @@ get_header();
                         Artistic Cheese Platters: may include cheddar, pepper jack, brie optiotns with dried apricots, cranberries, chopped herbs, drizzle clover honey, and other assorted cheeses included with assorted crackers
                     </li>
                     <li>
-                        Buffalo Chicken Dip Served with crusted breads
+                        Buffalo Chicken Dip
                     </li>
                     <li>
-                        Hot Artichokes and Fresh Spinach dip served with organic and blue chips
+                        Hot Artichokes and Fresh Spinach dip served with chips
                     </li>
-                    <li>
-                        Stuffed Mushroom Caps with meats or vegetarian options
-                    </li>
+					<li>
+						Hummus and Pita Triangles
+					</li>
                     <li>
                         Manhattan Meatballs: house made meatballs with a sweet spicy glaze
                     </li>
@@ -68,13 +68,7 @@ get_header();
                         Pigs in a Blanket
                     </li>
                     <li>
-                        Shot Glass Salads ~ Grilled Corn, Black Eyed Pea, Zucchini(or any Squash)
-                    </li>
-                    <li>
                         Shot glass of Cool or Chilled Soups
-                    </li>
-                    <li>
-                        Stuffed Cucumber Bites
                     </li>
                     <li>
                         Mini Quiches - variety of fillings
