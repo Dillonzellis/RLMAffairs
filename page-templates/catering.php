@@ -236,9 +236,6 @@ get_header();
                         Tomato cucumber salad
                     </li>
                     <li>
-                        Creamy Risotto
-                    </li>
-                    <li>
                         Sweet potato souffle
                     </li>
                     <li>
