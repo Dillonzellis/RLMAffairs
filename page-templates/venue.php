@@ -443,7 +443,7 @@ get_header();
 		<li>Photo Booth Wall $300.00</li>
 		<li>Corn Hole, Giant Jenga $10.00 each per event</li>
 		<li>Champagne Wall $2.60 a glass</li>
-		<li>Sparkler Buckets $4.00 each</li>
+		<li>Sparkler Buckets $4.00 each(***Sparklers not included***)</li>
 		<li>Bar Glassware $16 a rack</li>
 		<li>Extra Decanters $8.00 each</li>
 		<li>Tasting $125.00</li>
