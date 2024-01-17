@@ -201,7 +201,7 @@ get_header();
 <div class="container" style="margin-top: 2rem">
 	<div class="row">
 		<div class="col package-header">
-			Sapphire Wedding Package: $3800.00
+			Sapphire Wedding Package: $4100.00
 		</div>
 	</div>
 
@@ -218,12 +218,12 @@ get_header();
 		</li>
 		<li>Staff for event 4 hours</li>
 		<li>Rehearsal Day of Event</li>
-		<li><em>Monday - Thursday: $3600.00</em></li>
+		<li><em>Monday - Thursday: $3900.00</em></li>
 	</ul>
 
 	<div class="row">
 		<div class="col package-header">
-			Emerald Wedding Package: $4800.00
+			Emerald Wedding Package: $5100.00
 		</div>
 	</div>
 
@@ -242,12 +242,12 @@ get_header();
 		<li>Staff for event 4 hours</li>
 		<li>Day of Coordinator: Wedding Ceremony Coordination/ Dinner service/ Cake Cutting</li>
 		<li>Rehearsal Day of Event</li>
-		<li><em>Monday - Thursday: $4500.00</em></li>
+		<li><em>Monday - Thursday: $4800.00</em></li>
 	</ul>
 
 	<div class="row">
 		<div class="col package-header">
-			Ruby Wedding Package: $6400.00
+			Ruby Wedding Package: $6700.00
 		</div>
 	</div>
 
@@ -267,12 +267,12 @@ get_header();
 		<li>Day of Coordinator: Wedding Ceremony Coordination/Dinner service/ Toasts/ Cake Cutting</li>
 		<li>Rehearsal with coordinator </li>
 		<li>Clean up</li>
-		<li><em>Monday- Thursday: $6000.00</em></li>
+		<li><em>Monday- Thursday: $6300.00</em></li>
 	</ul>
 
 	<div class="row">
 		<div class="col package-header">
-			Diamond Wedding Package: $8400.00
+			Diamond Wedding Package: $8700.00
 		</div>
 	</div>
 
@@ -296,12 +296,12 @@ get_header();
 		</li>
 		<li>Rehearsal with coordinator </li>
 		<li>Full set up & Clean up</li>
-		<li><em>Monday - Thursday: $8100.00</em></li>
+		<li><em>Monday - Thursday: $8400.00</em></li>
 	</ul>
 
 	<div class="row">
 		<div class="col package-header">
-			Micro Wedding Package: $3300.00 Monday - Thursday
+			Micro Wedding Package: $3600.00 Monday - Thursday
 		</div>
 	</div>
 
@@ -322,7 +322,7 @@ get_header();
 
 	<div class="row">
 		<div class="col package-header">
-			Wedding Reception Only: $3500.00
+			Wedding Reception Only: $3800.00
 		</div>
 	</div>
 
@@ -348,7 +348,7 @@ get_header();
 
 	<div class="row">
 		<div class="col package-header">
-			Premier Event Package: $3500.00
+			Premier Event Package: $3800.00
 		</div>
 	</div>
 
@@ -363,13 +363,13 @@ get_header();
 		<li>2 tier Cake for dessert with stand, Staff will cut & serve cake Vanilla or Chocolate, Rough, Smooth or Naked iced</li>
 		<li>Staff for event 4 hours</li>
 		<li>You may add additional guests for $32.00 a person</li>
-		<li><em>Monday - Thursday: $3400.00</em></li>
+		<li><em>Monday - Thursday: $3700.00</em></li>
 	</ul>
 
 
 	<div class="row">
 		<div class="col package-header">
-			Elegant Event Package: $6000.00
+			Elegant Event Package: $6300.00
 		</div>
 	</div>
 
@@ -384,12 +384,12 @@ get_header();
 		<li>3 tier cake with stand, staff will cut & serve cake Vanilla or Chocolate, Rough, Smooth or Naked iced</li>
 		<li>Staff for event 6 hours </li>
 		<li>You may add additional guests for $42.00 a person</li>
-		<li><em>Monday- Thursday: $5700.00</em></li>
+		<li><em>Monday- Thursday: $6000.00</em></li>
 	</ul>
 
 	<div class="row">
 		<div class="col package-header">
-			Exquisite Event Package: $8000.00
+			Exquisite Event Package: $8300.00
 		</div>
 	</div>
 
@@ -406,14 +406,14 @@ get_header();
 		<li>You may add additional guests for $48.00 a person</li>
 		<li>Photo Booth Wall</li>
 		<li>Day of Coordinator: Timeline /Dinner Service /Toasts / Cake Cutting/ Etc.</li>
-		<li><em>Monday- Thursday: $7800.00</em></li>
+		<li><em>Monday- Thursday: $8100.00</em></li>
 	</ul>
 
 	<div class="venue-only-wrapper mb-5">
 		<div class="package-header">Venue Only</div>
-		<li>Fridays, Saturdays & Sundays - $1800.00 8 hours</li>
-		<li>Monday-Thursday - $1,200 6 hours</li>
-		<li>With any package 250.00/hour</li>
+		<li>Fridays, Saturdays & Sundays - $2100.00 8 hours</li>
+		<li>Monday-Thursday - $1,500 6 hours</li>
+		<li>With any package 350.00/hour</li>
 		<li>A $500 deposit is required to hold a date.</li>
 		<li>This deposit is not refundable. The balance is due 40 days prior to your event.</li>
 	</div>
@@ -449,9 +449,6 @@ get_header();
 		<li>Tasting $125.00</li>
 		<li>Extra Hours: $250.00 an hour with package</li>
 	</ul>
-
-
-
 
 	<div class="vendors mt-5">
 		<div style="font-size:24px; margin-bottom:1rem" class="package-header">Vendors:</div>
