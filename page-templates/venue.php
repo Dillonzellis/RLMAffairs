@@ -453,9 +453,13 @@ get_header();
 		<div style="font-size:24px; margin-bottom:1rem" class="package-header">Vendors:</div>
 		<div class="photography mb-3">
 			<div class="package-header">Photography:</div>
-			<a href="https://www.ritaweddingstudio.com/" target="_blank" rel="noopener noreferrer">
-				<p>Rita Wedding Studio</p>
-			</a>
+			<div href="" target="_blank" rel="noopener noreferrer" style="display: flex">
+				<a href="https://amandabethphotography.com/">Amanda Beth Photography</a>
+				<span> - <span>
+				<a href="tel:+1706-963-0198 ">706-963-0198</a>
+				<span> - <span>
+				<a href="https://www.instagram.com/amandabethphoto/">@amandabethphoto</a>
+			</div>
 			<a href="https://sixheartsphotography.com/" target="_blank" rel="noopener noreferrer">
 				<p>Far Out Galaxy
 			</a> - Photography - <a href="tel:+770-876-9248">770-876-9248</a></p>
