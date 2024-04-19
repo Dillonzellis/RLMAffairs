@@ -375,13 +375,13 @@ get_header();
 
 	<ul>
 		<li>65 Guests:</li>
-		<li>9 hour Venue Rental Included</li>
+		<li>8 hour Venue Rental Included</li>
 		<li>Set Up & display of your personal items</li>
 		<li>Event Décor: table runners, greens and lanterns for tables, flowers for entry table and mantle</li>
 		<li>Catering: Cocktail hour 2 Hors d’Oeuvres 2 entrée buffet, signature salad, diner rolls, 2 side dishes</li>
 		<li>Beverages Displayed in Elegant Decanters: Tea and water beverages </li>
 		<li>Charger, Silver flatware, Goblets and Dinner Plates with Napkins</li>
-		<li>3 tier cake with stand, staff will cut & serve cake Vanilla or Chocolate, Rough, Smooth or Naked iced</li>
+		<li>2 tier cake with stand, staff will cut & serve cake Vanilla or Chocolate, Rough, Smooth or Naked iced</li>
 		<li>Staff for event 6 hours </li>
 		<li>You may add additional guests</li>
 		<li><em>Monday- Thursday: $6000.00</em></li>
