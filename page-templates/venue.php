@@ -253,14 +253,14 @@ get_header();
 
 	<ul>
 		<li>70 Guests</li>
-		<li>9 hour Venue Rental Included</li>
-		<li>Ceremony Décor: Organza draping with Florals & with aisle pew decor</li>
+		<li>8 hour Venue Rental Included</li>
+		<li>Ceremony Décor: Organza draping with Florals</li>
 		<li>Reception Décor: Lanterns, Greens, Organza, and entry table, mantle florals</li>
 		<li>Bride bouquet & 3 bridesmaids and flower girl petals Groom & 3 groomsmen boutonnières </li>
-		<li>Catering: Cocktail hour 3 Hors d’Oeuvres 2 entrée buffet, signature salad, dinner rolls, 2 side dishes </li>
+		<li>Catering: Cocktail hour 2 Hors d’Oeuvres 2 entrée buffet, signature salad, dinner rolls, 2 side dishes </li>
 		<li>Beverages Displayed in Elegant Decanters: Tea and water beverages </li>
-		<li>Silver or Gold flatware, Goblets and Dinner Plates</li>
-		<li>3 tier cake with Cake stand, staff will cut & serve cake Vanilla or Chocolate, Rough, Smooth or Naked iced
+		<li>Silver flatware, Goblets and Dinner Plates</li>
+		<li>2 tier cake with Cake stand, staff will cut & serve cake Vanilla or Chocolate, Rough, Smooth or Naked iced
 		</li>
 		<li>Photo Booth Wall</li>
 		<li>Staff for event 6 hours</li>
@@ -362,7 +362,7 @@ get_header();
 		<li>Disposable Flatware Glasses and Paper Napkins</li>
 		<li>2 tier Cake for dessert with stand, Staff will cut & serve cake Vanilla or Chocolate, Rough, Smooth or Naked iced</li>
 		<li>Staff for event 4 hours</li>
-		<li>You may add additional guests for $32.00 a person</li>
+		<li>You may add additional guests</li>
 		<li><em>Monday - Thursday: $3700.00</em></li>
 	</ul>
 
@@ -383,7 +383,7 @@ get_header();
 		<li>Charger, Silver flatware, Goblets and Dinner Plates with Napkins</li>
 		<li>3 tier cake with stand, staff will cut & serve cake Vanilla or Chocolate, Rough, Smooth or Naked iced</li>
 		<li>Staff for event 6 hours </li>
-		<li>You may add additional guests for $42.00 a person</li>
+		<li>You may add additional guests</li>
 		<li><em>Monday- Thursday: $6000.00</em></li>
 	</ul>
 
@@ -403,7 +403,7 @@ get_header();
 		<li>Charger,Silver or Gold flatware, Goblets and Dinner Plates with Napkins</li>
 		<li>3 tier cake with stand, staff will cut & serve cake Vanilla or Chocolate, Rough, Smooth or Naked iced</li>
 		<li>Staff for event 6 hours </li>
-		<li>You may add additional guests for $48.00 a person</li>
+		<li>You may add additional guests</li>
 		<li>Photo Booth Wall</li>
 		<li>Day of Coordinator: Timeline /Dinner Service /Toasts / Cake Cutting/ Etc.</li>
 		<li><em>Monday- Thursday: $8100.00</em></li>
@@ -446,7 +446,7 @@ get_header();
 		<li>Sparkler Buckets $4.00 each(***Sparklers not included***)</li>
 		<li>Extra Decanters $18.00 each</li>
 		<li>Tasting $125.00</li>
-		<li>Extra Hours: $250.00 an hour with package</li>
+		<li>Extra Hours: $350.00 an hour with package</li>
 	</ul>
 
 	<div class="vendors mt-5">
