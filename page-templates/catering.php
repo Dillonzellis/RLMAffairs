@@ -194,9 +194,6 @@ get_header();
                         Garlic smashed potatoes
                     </li>
                     <li>
-                        Potatoes au Gratin
-                    </li>
-                    <li>
                         Steam Asparagus(seasonal price)
                     </li>
                     <li>
