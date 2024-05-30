@@ -445,7 +445,7 @@ get_header();
 		<li>Champagne Wall $2.60 a glass</li>
 		<li>Sparkler Buckets $4.00 each(***Sparklers not included***)</li>
 		<li>Extra Decanters $18.00 each</li>
-		<li>Tasting $125.00</li>
+		<li>Tasting $150.00</li>
 		<li>Extra Hours: $350.00 an hour with package</li>
 	</ul>
 
