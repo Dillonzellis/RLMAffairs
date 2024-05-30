@@ -471,21 +471,30 @@ get_header();
 			</a>
 		</div>
 
-		<!-- <div class="dj-services mb-3"> -->
-		<!-- 	<div class="package-header">Bartender:</div> -->
-		<!-- 	<div class="flex-col" style="gap:0.5rem"><a style="text-decoration:underline" href="https://cdeeventbartender.com" target="_blank" rel="noopener noreferrer">Citizen Dane Enterprises</a> -->
-		<!-- 		<a href="tel:+2483451090">(248) 345-1090</a> -->
-		<!-- 		<a href="mailto:cdaneger@gmail.com">cdaneger@gmail.com</a> -->
-		<!-- 	</div> -->
-		<!-- </div> -->
-
-
-
 		<div class="dj-services mb-3">
-			<div class="package-header">DJ Services:</div>
-			<a href="https://djcuttlefish.com/about-us/" target="_blank" rel="noopener noreferrer">
-				<p>Far Out Galaxy
-			</a> - (DJ) - <a href="tel:+770-876-9248">770-876-9248</a></p>
+			<div class="package-header">Bartender:</div>
+			<div class="flex-col" style="gap:0.5rem">
+				<a href="https://www.rollinhooch.com/" target="_blank" rel="noopener noreferrer">Rollin' Hooch - Mobile Bar</a>
+				<a href="tel:+12096209536">209-620-9536</a>
+				<a href="mailto:katie@rollinhooch.com">Katie@RollinHooch.com</a>
+			</div>
+		</div>
+
+		<div className="dj-services mb-3" style="margin-bottom:1rem !important;">
+			<div className="package-header" style="font-weight:700;font-style:italic;text-decoration:underline">DJ Services:</div>
+			<a
+				href="https://djcuttlefish.com/about-us/"
+				target="_blank"
+				rel="noopener noreferrer"
+			>
+				Far Out Galaxy
+			</a>
+			<span> - (DJ) - </span>
+			<a href="tel:+1770-876-9248">770-876-9248</a>
+			<div>
+				They're Playing Our Song - Disc Jockey Service -
+				<a href="tel:+14046952875">404-695-2875</a>
+			</div>
 		</div>
 
 		<div class="officiant mb-3">
