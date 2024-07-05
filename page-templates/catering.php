@@ -165,9 +165,6 @@ get_header();
                         Classic Southern Jumbo Shrimp & Grits
                     </li>
                     <li>
-                        New Orleans Seafood Gumbo with shrimp, chicken, Andouille, and Tasso ham
-                    </li>
-                    <li>
                         Tortellini with pesto, shrimp or chicken with spinach and asiago cheese in a champagne cream sauce
                     </li>
                     <li>
@@ -231,9 +228,6 @@ get_header();
                     </li>
                     <li>
                         Tomato cucumber salad
-                    </li>
-                    <li>
-                        Sweet potato souffle
                     </li>
                     <li>
                         Gourmet Mac and Cheese
