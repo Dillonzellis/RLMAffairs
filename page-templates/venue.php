@@ -259,7 +259,7 @@ get_header();
 		<li>Bride bouquet & 3 bridesmaids and flower girl petals Groom & 3 groomsmen boutonnières </li>
 		<li>Catering: Cocktail hour 2 Hors d’Oeuvres 2 entrée buffet, signature salad, dinner rolls, 2 side dishes </li>
 		<li>Beverages Displayed in Elegant Decanters: Tea and water beverages </li>
-		<li>Silver flatware, Goblets and Dinner Plates</li>
+		<li>Silver flatware, Goblets, Charger, Dinner Plates, and Signature Paper Napkins</li>
 		<li>2 tier cake with Cake stand, staff will cut & serve cake Vanilla or Chocolate, Rough, Smooth or Naked iced
 		</li>
 		<li>Photo Booth Wall</li>
@@ -285,8 +285,7 @@ get_header();
 		<li>3 Corsages (Moms Grandmothers Etc.) 3 Boutioneres (Fathers Grandfathers Etc)</li>
 		<li>Catering: Cocktail hour 3 Hors d’Oeuvres 2 entrée buffet, signature salad, diner rolls, 2 side dishes </li>
 		<li>Beverages Displayed in Elegant Decanters: Tea and water beverages </li>
-		<li>Silver or Gold flatware, Goblets and Dinner Plates with Linen Napkins. White or cream linens for seating
-			tables </li>
+		<li>Silver or Gold flatware, Goblets and Dinner Plates with Signature Paper Napkin.</li>
 		<li>3 tier cake with Cake stand, staff will cut & serve cake Vanilla or Chocolate, Rough, Smooth or Naked iced
 		</li>
 		<li>Staff for event 6 hours</li>
