@@ -337,6 +337,11 @@ get_header();
 		<li>Staff for event 4 hours</li>
 	</ul>
 
+
+	<p style="font-size: 0.8rem; font-style: italic;">
+		*For the safety and preservation of our venue, we kindly request no real flame candles, no bubbles inside, no fake flower petals indoors or outdoors, and no confetti of any kind, including biodegradable flower petals.*
+	</p>
+
 	<section class="venue-feats-container">
 		<hr>
 		<div class="feats-sub-header">
@@ -410,14 +415,18 @@ get_header();
 
 	<div class="venue-only-wrapper mb-5">
 		<div class="package-header">Venue Only</div>
-		<li>Fridays, Saturdays & Sundays - $2100.00 8 hours</li>
-		<li>Monday-Thursday - $1,500 6 hours</li>
-		<li>With any package 350.00/hour</li>
-		<li>A $500 deposit is required to hold a date.</li>
-		<li>This deposit is not refundable. The balance is due 40 days prior to your event.</li>
+		<ul>
+			<li>Fridays, Saturdays & Sundays - $2100.00 8 hours</li>
+			<li>Monday-Thursday - $1,500 6 hours</li>
+			<li>With any package 350.00/hour</li>
+			<li>A $500 deposit is required to hold a date.</li>
+			<li>This deposit is not refundable. The balance is due 40 days prior to your event.</li>
+		</ul>
+		<p style="font-size: 0.8rem; font-style: italic;">
+			*For the safety and preservation of our venue, we kindly request no real flame candles, no bubbles inside, no fake flower petals indoors or outdoors, and no confetti of any kind, including biodegradable flower petals.*
+		</p>
 	</div>
 </div>
-
 
 <section class="venue-feats-container">
 	<hr>
